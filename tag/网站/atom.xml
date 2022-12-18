@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://byx.vercel.app</id>
+    <title>星祤书架 • Posts by &#34;网站&#34; tag</title>
+    <link href="https://byx.vercel.app" />
+    <updated>2021-03-28T00:28:35.000Z</updated>
+    <category term="编程" />
+    <category term="C#" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="网站" />
+    <category term="Win10" />
+    <category term="Android" />
+    <category term="Minecraft（我的世界）" />
+    <category term="基岩版" />
+    <category term="Java版" />
+    <category term="工具" />
+    <category term="教程" />
+    <category term="安卓" />
+    <category term="IDE" />
+    <category term="软件时间轴" />
+    <entry>
+        <id>https://byx.vercel.app/note/suggest/common_website/</id>
+        <title>推荐常用网站</title>
+        <link rel="alternate" href="https://byx.vercel.app/note/suggest/common_website/"/>
+        <content type="html">&lt;h1 id=&#34;推荐常用网站&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#推荐常用网站&#34;&gt;#&lt;/a&gt; » 推荐常用网站&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;网站&lt;/th&gt;
+&lt;th&gt;评价&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vdXRsb29rLmxpdmUuY29tL21haWwvMC9pbmJveA==&#34;&gt;Outlook 邮箱&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;贼好用的邮箱&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29t&#34;&gt;知乎&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;不懂就问&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnVub29iLmNvbQ==&#34;&gt;菜鸟教程&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;不会就学&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZGVlcGwuY29tL3RyYW5zbGF0b3I=&#34;&gt;DeepL 翻译&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;全世界最好的翻译&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90cmFjZS5tb2U=&#34;&gt;以图搜番&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;有图想看就搜&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29t&#34;&gt;BiliBili&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;著名 ACG 弹幕视频站&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWNmdW4uY24=&#34;&gt;AcFun&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;旧著名 ACG 弹幕视频站&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWdlZmFucy5uZXQv&#34;&gt;AGE 动漫&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;白嫖 ACG 弹幕视频站&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5zaWxpc2lsaS5pbg==&#34;&gt;SiliSili&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;白嫖 ACG 弹幕视频站&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWFzeWljb24ubmV0&#34;&gt;图标搜索&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;大量精美的图标&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+        <category term="推荐" />
+        <category term="网站" />
+        <updated>2021-03-28T00:28:35.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://byx.vercel.app/note/tools/web/webmasters/</id>
+        <title>网站管理员工具</title>
+        <link rel="alternate" href="https://byx.vercel.app/note/tools/web/webmasters/"/>
+        <content type="html">&lt;h1 id=&#34;网站管理员工具&#34;&gt;&lt;a href=&#34;#网站管理员工具&#34; class=&#34;headerlink&#34; title=&#34;网站管理员工具&#34;&gt;&lt;/a&gt;网站管理员工具&lt;/h1&gt;&lt;h1 id=&#34;»-快照更新：&#34;&gt;&lt;a href=&#34;#»-快照更新：&#34; class=&#34;headerlink&#34; title=&#34;» 快照更新：&#34;&gt;&lt;/a&gt;» 快照更新：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=&#34;&gt;谷歌搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=&#34;&gt;今日头条&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTI=&#34;&gt;搜狗搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2luZm8uc28uMzYwLmNuL2NhY2hlX3JlbW92ZS5odG1s&#34;&gt;360搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3RvdXN1LmJhaWR1LmNvbS93ZWJtYXN0ZXIvYWRk&#34;&gt;百度搜索&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-提交入口：&#34;&gt;&lt;a href=&#34;#»-提交入口：&#34; class=&#34;headerlink&#34; title=&#34;» 提交入口：&#34;&gt;&lt;/a&gt;» 提交入口：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=&#34;&gt;谷歌搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=&#34;&gt;今日头条&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmluZy5jb20vdG9vbGJveC93ZWJtYXN0ZXI=&#34;&gt;必应搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTE=&#34;&gt;搜狗搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3poYW56aGFuZy5zby5jb20v&#34;&gt;360搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aXl1YW4uYmFpZHUuY29tL2xpbmtzdWJtaXQvdXJs&#34;&gt;百度搜索&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="网站" />
+        <category term="工具" />
+        <updated>2021-03-28T00:28:35.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://byx.vercel.app</id>
+    <title>星祤书架 • Posts by &#34;安卓&#34; tag</title>
+    <link href="https://byx.vercel.app" />
+    <updated>2020-10-20T12:31:28.000Z</updated>
+    <category term="编程" />
+    <category term="C#" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="网站" />
+    <category term="Win10" />
+    <category term="Android" />
+    <category term="Minecraft（我的世界）" />
+    <category term="基岩版" />
+    <category term="Java版" />
+    <category term="工具" />
+    <category term="教程" />
+    <category term="安卓" />
+    <category term="IDE" />
+    <category term="软件时间轴" />
+    <entry>
+        <id>https://byx.vercel.app/note/tutorial/android/set_android_dns/</id>
+        <title>设置DNS（安卓篇）</title>
+        <link rel="alternate" href="https://byx.vercel.app/note/tutorial/android/set_android_dns/"/>
+        <content type="html">&lt;h1 id=&#34;设置DNS（安卓篇）&#34;&gt;&lt;a href=&#34;#设置DNS（安卓篇）&#34; class=&#34;headerlink&#34; title=&#34;设置DNS（安卓篇）&#34;&gt;&lt;/a&gt;设置DNS（安卓篇）&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;进入 &lt;code&gt;设置&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;WLAN&lt;/code&gt; 选项。&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;当前连接着的 WiFi&lt;/code&gt; 右边的 &lt;code&gt;&amp;gt;&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;IP设置&lt;/code&gt; 切换为 &lt;code&gt;静态&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DNS 1&lt;/code&gt; 设置为： &lt;code&gt;223.5.5.5&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DNS 2&lt;/code&gt; 设置为： &lt;code&gt;223.6.6.6&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;设置完成后点击右上角的 &lt;code&gt;√&lt;/code&gt; 完成设置。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="教程" />
+        <category term="安卓" />
+        <updated>2020-10-20T12:31:28.000Z</updated>
+    </entry>
+</feed>

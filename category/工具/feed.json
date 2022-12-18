@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "星祤书架 • All posts by \"工具\" category",
+    "description": "游戏更新 & 编程笔记",
+    "home_page_url": "https://byx.vercel.app",
+    "items": [
+        {
+            "id": "https://byx.vercel.app/note/tools/web/webmasters/",
+            "url": "https://byx.vercel.app/note/tools/web/webmasters/",
+            "title": "网站管理员工具",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"网站管理员工具\"><a href=\"#网站管理员工具\" class=\"headerlink\" title=\"网站管理员工具\"></a>网站管理员工具</h1><h1 id=\"»-快照更新：\"><a href=\"#»-快照更新：\" class=\"headerlink\" title=\"» 快照更新：\"></a>» 快照更新：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=\">谷歌搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=\">今日头条</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTI=\">搜狗搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL2luZm8uc28uMzYwLmNuL2NhY2hlX3JlbW92ZS5odG1s\">360搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL3RvdXN1LmJhaWR1LmNvbS93ZWJtYXN0ZXIvYWRk\">百度搜索</span></li>\n</ul>\n<h1 id=\"»-提交入口：\"><a href=\"#»-提交入口：\" class=\"headerlink\" title=\"» 提交入口：\"></a>» 提交入口：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=\">谷歌搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=\">今日头条</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmluZy5jb20vdG9vbGJveC93ZWJtYXN0ZXI=\">必应搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTE=\">搜狗搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL3poYW56aGFuZy5zby5jb20v\">360搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly96aXl1YW4uYmFpZHUuY29tL2xpbmtzdWJtaXQvdXJs\">百度搜索</span></li>\n</ul>\n",
+            "tags": [
+                "网站",
+                "工具"
+            ]
+        }
+    ]
+}

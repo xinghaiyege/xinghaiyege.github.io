@@ -1,0 +1,21 @@
+[[list]]
+name = "今日头条"
+url = "https://www.toutiao.com/"
+[[list]]
+name = "必应"
+url = "https://cn.bing.com/"
+[[list]]
+name = "百度"
+url = "https://www.baidu.com/"
+[[tags]]
+name = "文章"
+sort = [0, 1, 2]
+[[tags]]
+name = "程序"
+sort = [1, 0, 2]
+[[tags]]
+name = "新闻资讯"
+sort = [0, 1, 2]
+[[tags]]
+name = "视频"
+sort = [0, 2, 1]

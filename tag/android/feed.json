@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "星祤书架 • All posts by \"android\" tag",
+    "description": "游戏更新 & 编程笔记",
+    "home_page_url": "https://byx.vercel.app",
+    "items": [
+        {
+            "id": "https://byx.vercel.app/note/suggest/hardware_ladder_diagram/",
+            "url": "https://byx.vercel.app/note/suggest/hardware_ladder_diagram/",
+            "title": "天梯图大全：显卡、CPU、笔记本显卡、笔记本CPU",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"»-电脑：\"><a href=\"#»-电脑：\" class=\"headerlink\" title=\"» 电脑：\"></a>» 电脑：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9ncHUv\">显卡天梯图</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9jcHUv\">CPU天梯图</span></li>\n</ul>\n<h1 id=\"»-笔记本：\"><a href=\"#»-笔记本：\" class=\"headerlink\" title=\"» 笔记本：\"></a>» 笔记本：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9ncHVtLw==\">显卡天梯图</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9jcHVtLw==\">CPU天梯图</span></li>\n</ul>\n",
+            "tags": [
+                "推荐",
+                "Win10",
+                "Android"
+            ]
+        }
+    ]
+}

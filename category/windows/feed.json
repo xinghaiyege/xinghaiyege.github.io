@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "星祤书架 • All posts by \"windows\" category",
+    "description": "游戏更新 & 编程笔记",
+    "home_page_url": "https://byx.vercel.app",
+    "items": [
+        {
+            "id": "https://byx.vercel.app/note/tutorial/windows/download_win10/",
+            "url": "https://byx.vercel.app/note/tutorial/windows/download_win10/",
+            "title": "下载 Windows 10 系统",
+            "date_published": "2020-10-20T12:31:24.000Z",
+            "content_html": "<h1 id=\"下载-Windows-10-系统\"><a href=\"#下载-Windows-10-系统\" class=\"headerlink\" title=\"下载 Windows 10 系统\"></a>下载 Windows 10 系统</h1><blockquote>\n<p>安装前，请确保 C 盘（系统盘）有 20 G 以上的存储空间。<br>下载前，请核对操作系统的位数。<br>下载前，请确保电脑中有 ED2K 下载软件（例如：迅雷）</p>\n</blockquote>\n<h1 id=\"»-LTSC-版：\"><a href=\"#»-LTSC-版：\" class=\"headerlink\" title=\"» LTSC 版：\"></a>» LTSC 版：</h1><blockquote>\n<p>首推理由：系统占用存储少、内存占用少、CPU占用少。<br>无 Win10 应用商店、无微软小娜、无 UWP 应用，更新频率少而且稳定。<br>Win10 应用商店可通过手动安装，然后再安装其他的 UWP 应用。</p>\n</blockquote>\n<ul>\n<li>密钥：<code>YJQNW-QH3Y8-JDHW2-MGV9F-2KCR9</code></li>\n<li>64位：<span class=\"exturl\" data-url=\"ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfZW50ZXJwcmlzZV9sdHNjXzIwMTlfeDY0X2R2ZF85YzA5ZmYyNC5pc298NDQ3ODkwNjM2OHxFN0M1MjY0OTkzMDg4NDFBNEE2RDExNkM4NTdEQjY2OXwv\">ED2K 下载链接</span>，发布时间 2019-03-15</li>\n<li>32位：<span class=\"exturl\" data-url=\"ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfZW50ZXJwcmlzZV9sdHNjXzIwMTlfeDg2X2R2ZF8xODE0ZGJhYi5pc298MzE5NjgwMzA3MnwyRDM5QzU0QTJFOTlCQUMzMDgxOTFDNzRBMTVCMzIzN3wv\">ED2K 下载链接</span>，发布时间 2019-03-15</li>\n</ul>\n<h1 id=\"»-企业版、教育版、专业版：\"><a href=\"#»-企业版、教育版、专业版：\" class=\"headerlink\" title=\"» 企业版、教育版、专业版：\"></a>» 企业版、教育版、专业版：</h1><blockquote>\n<p>推荐怕给怕麻烦的人。<br>有 Win10 应用商店、有微软小娜、有 UWP 应用，更新频率频繁。<br>由安装密钥决定版本，激活后可通过密钥再次更换为别的版本再次激活。</p>\n</blockquote>\n<ul>\n<li>密钥：<code>NK96Y-D9CD8-W44CQ-R8YTK-DYJWX</code></li>\n<li>64位：<span class=\"exturl\" data-url=\"ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfYnVzaW5lc3NfZWRpdGlvbnNfdmVyc2lvbl8yMGgyX3VwZGF0ZWRfYXByaWxfMjAyMV94NjRfZHZkXzBhMGZjNDkwLmlzb3w2MTY1ODMxNjgwfDlCNEI5MThBODQwRjg0NUE0M0RENDc2RkNFQzNFNDIxfC8=\">ED2K 下载链接</span>，发布时间 2021-04-20</li>\n<li>32位：<span class=\"exturl\" data-url=\"ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfYnVzaW5lc3NfZWRpdGlvbnNfdmVyc2lvbl8yMGgyX3VwZGF0ZWRfYXByaWxfMjAyMV94ODZfZHZkXzBlOTRiMzNjLmlzb3w0NTM4NzQyNzg0fEE3MzhEQkU3NzEzN0RCOUFFQ0Q4QzU2NTAwMDExNzRCfC8=\">ED2K 下载链接</span>，发布时间 2021-04-20</li>\n</ul>\n<h1 id=\"»-自选系统与版本：\"><a href=\"#»-自选系统与版本：\" class=\"headerlink\" title=\"» 自选系统与版本：\"></a>» 自选系统与版本：</h1><blockquote>\n<p>推荐专业人士，不懂电脑请看上面的两个版本。</p>\n</blockquote>\n<ul>\n<li>链接 1：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9tc2RuLml0ZWxseW91LmNuLw==\">MSDN，我告诉你（旧站）</span></li>\n<li>链接 2：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9uZXh0Lml0ZWxseW91LmNuL09yaWdpbmFsL0luZGV4\">MSDN，我告诉你（新站）</span></li>\n</ul>\n",
+            "tags": [
+                "Win10",
+                "教程"
+            ]
+        }
+    ]
+}

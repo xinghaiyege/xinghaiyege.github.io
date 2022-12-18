@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>星祤书架 • Posts by &#34;java版&#34; category</title>
+        <link>https://byx.vercel.app</link>
+        <description>游戏更新 &amp; 编程笔记</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+        <lastBuildDate>Sun, 28 Mar 2021 08:28:35 +0800</lastBuildDate>
+        <category>编程</category>
+        <category>C#</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>网站</category>
+        <category>Win10</category>
+        <category>Android</category>
+        <category>Minecraft（我的世界）</category>
+        <category>基岩版</category>
+        <category>Java版</category>
+        <category>工具</category>
+        <category>教程</category>
+        <category>安卓</category>
+        <category>IDE</category>
+        <category>软件时间轴</category>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/minecraft/java/common_modules/</guid>
+            <title>我的世界 Java版：常见模组</title>
+            <link>https://byx.vercel.app/note/minecraft/java/common_modules/</link>
+            <category>Minecraft（我的世界）</category>
+            <category>Java版</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;我的世界-Java版：常见模组&#34;&gt;&lt;a href=&#34;#我的世界-Java版：常见模组&#34; class=&#34;headerlink&#34; title=&#34;我的世界 Java版：常见模组&#34;&gt;&lt;/a&gt;我的世界 Java版：常见模组&lt;/h1&gt;&lt;h1 id=&#34;官网：&#34;&gt;&lt;a href=&#34;#官网：&#34; class=&#34;headerlink&#34; title=&#34;官网：&#34;&gt;&lt;/a&gt;官网：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Curse：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHM=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;MC模组百科：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWNtb2QuY24v&#34;&gt;https://www.mcmod.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;内存优化：&#34;&gt;&lt;a href=&#34;#内存优化：&#34; class=&#34;headerlink&#34; title=&#34;内存优化：&#34;&gt;&lt;/a&gt;内存优化：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;TexFix：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdGV4Zml4&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/texfix&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;FoamFix：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvZm9hbWZpeC1mb3ItbWluZWNyYWZ0&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;推荐必装：&#34;&gt;&lt;a href=&#34;#推荐必装：&#34; class=&#34;headerlink&#34; title=&#34;推荐必装：&#34;&gt;&lt;/a&gt;推荐必装：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;高清修复：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5vcHRpZmluZS5uZXQvZG93bmxvYWRz&#34;&gt;http://www.optifine.net/downloads&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;万用皮肤补丁：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5tY2Jicy5uZXQvdGhyZWFkLTI2OTgwNy0xLTEuaHRtbA==&#34;&gt;http://www.mcbbs.net/thread-269807-1-1.html&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;物品提示：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvaHd5bGE=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/hwyla&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;扩展：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvd2FpbGEtaGFydmVzdGFiaWxpdHk=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/waila-harvestability&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;不再合成冲突：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvc3RpbW1lZGNvdy1ub21vcmVyZWNpcGVjb25mbGljdA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;简洁血条：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbmVhdA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/neat&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;懒人辅助：&#34;&gt;&lt;a href=&#34;#懒人辅助：&#34; class=&#34;headerlink&#34; title=&#34;懒人辅助：&#34;&gt;&lt;/a&gt;懒人辅助：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;R键整理：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvaW52ZW50b3J5LXR3ZWFrcw==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;一键砍树：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdHJlZS1jaG9wcGVy&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/tree-chopper&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;自动钓鱼：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWluZWNyYWZ0Zm9ydW0ubmV0L2ZvcnVtcy9tYXBwaW5nLWFuZC1tb2RkaW5nLWphdmEtZWRpdGlvbi9taW5lY3JhZnQtbW9kcy8yNTMwNDA3LWF1dG9maXNoLWZvcmdlLW1vZC1mb3ItbWluZWNyYWZ0LTEtMTItMS0xMS0xLTEwLTE=&#34;&gt;https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2530407-autofish-forge-mod-for-minecraft-1-12-1-11-1-10-1&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;环境增强：&#34;&gt;&lt;a href=&#34;#环境增强：&#34; class=&#34;headerlink&#34; title=&#34;环境增强：&#34;&gt;&lt;/a&gt;环境增强：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;动态环境：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvZHluYW1pYy1zdXJyb3VuZGluZ3M=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;前置：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvb3JlbGli&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/orelib&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;音效过滤：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvc291bmQtZmlsdGVycw==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/sound-filters&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;无缝连接材质：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvY3Rt&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/ctm&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;显示食物饱食度：&#34;&gt;&lt;a href=&#34;#显示食物饱食度：&#34; class=&#34;headerlink&#34; title=&#34;显示食物饱食度：&#34;&gt;&lt;/a&gt;显示食物饱食度：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;苹果核（苹果皮前置）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYXBwbGVjb3Jl&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/applecore&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;苹果皮（1.10.2+ 显示食物饱食度）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYXBwbGVza2lu&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/appleskin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;物品管理器&#34;&gt;&lt;a href=&#34;#物品管理器&#34; class=&#34;headerlink&#34; title=&#34;物品管理器&#34;&gt;&lt;/a&gt;物品管理器&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;JEI物品管理器（1.12+）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvamVp&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/jei&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;NEI物品管理器（1.8+）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbm90LWVub3VnaC1pdGVtcy0xLTg=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;NEI物品管理器（1.8-）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbm90ZW5vdWdoaXRlbXM=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/notenoughitems&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;地图&#34;&gt;&lt;a href=&#34;#地图&#34; class=&#34;headerlink&#34; title=&#34;地图&#34;&gt;&lt;/a&gt;地图&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;旅行者地图（Curse）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvam91cm5leW1hcA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/journeymap&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;旅行者地图（官网）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2pvdXJuZXltYXAuaW5mby9Eb3dubG9hZA==&#34;&gt;http://journeymap.info/Download&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;体素地图：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdm94ZWxtYXA=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/voxelmap&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;丰富的生物群系&#34;&gt;&lt;a href=&#34;#丰富的生物群系&#34; class=&#34;headerlink&#34; title=&#34;丰富的生物群系&#34;&gt;&lt;/a&gt;丰富的生物群系&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;超多生物群系：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYmlvbWVzLW8tcGxlbnR5&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;农场物语：&#34;&gt;&lt;a href=&#34;#农场物语：&#34; class=&#34;headerlink&#34; title=&#34;农场物语：&#34;&gt;&lt;/a&gt;农场物语：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;潘马斯农场：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvcGFtcy1oYXJ2ZXN0Y3JhZnQ=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;JEI扩展：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvanVzdC1lbm91Z2gtaGFydmVzdGNyYWZ0&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;枫树（日式）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3J1bS5taW5lY3JhZnR1c2VyLmpwL3ZpZXd0b3BpYy5waHA/dD02OTg0&#34;&gt;https://forum.minecraftuser.jp/viewtopic.php?t=6984&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;怪物的斗争：&#34;&gt;&lt;a href=&#34;#怪物的斗争：&#34; class=&#34;headerlink&#34; title=&#34;怪物的斗争：&#34;&gt;&lt;/a&gt;怪物的斗争：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;暮色森林：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdGhlLXR3aWxpZ2h0LWZvcmVzdA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;冰与火之歌：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvaWNlLWFuZC1maXJlLWRyYWdvbnM=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;盖亚魔典：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvZ3JpbW9pcmUtb2YtZ2FpYQ==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Mowzie的怪物：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbW93emllcy1tb2Jz&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;生物多样化：&#34;&gt;&lt;a href=&#34;#生物多样化：&#34; class=&#34;headerlink&#34; title=&#34;生物多样化：&#34;&gt;&lt;/a&gt;生物多样化：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;更多生物（MoCreatures）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubW9jcmVhdHVyZXMub3JnL2Rvd25sb2Fkcw==&#34;&gt;https://www.mocreatures.org/downloads&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;更真实的动物：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYW5pbWFuaWE=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/animania&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;仓鼠：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbW9kY2h1X2hhbXN0ZXJ1bm9mZmljaWFs&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/modchu_hamsterunofficial&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;猫（Nyanko）/柴犬：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3J1bS5taW5lY3JhZnR1c2VyLmpwL3ZpZXd0b3BpYy5waHA/dD0yNDg3Mw==&#34;&gt;https://forum.minecraftuser.jp/viewtopic.php?t=24873&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;科技与魔法&#34;&gt;&lt;a href=&#34;#科技与魔法&#34; class=&#34;headerlink&#34; title=&#34;科技与魔法&#34;&gt;&lt;/a&gt;科技与魔法&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;装饰品：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYmF1Ymxlcw==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/baubles&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;神秘时代（前置：装饰品）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdGhhdW1jcmFmdA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/thaumcraft&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;植物魔法（前置：装饰品）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYm90YW5pYQ==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/botania&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;装备扩展：&#34;&gt;&lt;a href=&#34;#装备扩展：&#34; class=&#34;headerlink&#34; title=&#34;装备扩展：&#34;&gt;&lt;/a&gt;装备扩展：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;云靴：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvY2xvdWQtYm9vdHMtbW9k&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/cloud-boots-mod&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;可穿戴背包：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvd2VhcmFibGUtYmFja3BhY2tz&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/wearable-backpacks&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;家具装饰：&#34;&gt;&lt;a href=&#34;#家具装饰：&#34; class=&#34;headerlink&#34; title=&#34;家具装饰：&#34;&gt;&lt;/a&gt;家具装饰：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;家具（Furniture）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcmNyYXlmaXNoLmNvbS9tb2RzP2lkPWNmbSNkb3dubG9hZHM=&#34;&gt;https://mrcrayfish.com/mods?id=cfm#downloads&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;装饰和道具2：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvZGVjb2NyYWZ0Mg==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/decocraft2&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;可放置物品（3D模组）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvcGxhY2VhYmxlLWl0ZW1z&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/placeable-items&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;在线相框：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvb25saW5lcGljdHVyZWZyYW1l&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/onlinepictureframe&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;凿子和组件&#34;&gt;&lt;a href=&#34;#凿子和组件&#34; class=&#34;headerlink&#34; title=&#34;凿子和组件&#34;&gt;&lt;/a&gt;凿子和组件&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvY2hpc2Vscy1iaXRz&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/chisels-bits&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;匠魂&#34;&gt;&lt;a href=&#34;#匠魂&#34; class=&#34;headerlink&#34; title=&#34;匠魂&#34;&gt;&lt;/a&gt;匠魂&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdGlua2Vycy1jb25zdHJ1Y3Q=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/tinkers-construct&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;铁箱子&#34;&gt;&lt;a href=&#34;#铁箱子&#34; class=&#34;headerlink&#34; title=&#34;铁箱子&#34;&gt;&lt;/a&gt;铁箱子&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvaXJvbi1jaGVzdHM=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/iron-chests&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;JER物品视图查询&#34;&gt;&lt;a href=&#34;#JER物品视图查询&#34; class=&#34;headerlink&#34; title=&#34;JER物品视图查询&#34;&gt;&lt;/a&gt;JER物品视图查询&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvanVzdC1lbm91Z2gtcmVzb3VyY2VzLWplcg==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;竹（和风）&#34;&gt;&lt;a href=&#34;#竹（和风）&#34; class=&#34;headerlink&#34; title=&#34;竹（和风）&#34;&gt;&lt;/a&gt;竹（和风）&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3J1bS5jaXZhLmpwL3ZpZXd0b3BpYy5waHA/Zj0zJmFtcDt0PTI3OQ==&#34;&gt;https://forum.civa.jp/viewtopic.php?f=3&amp;amp;t=279&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

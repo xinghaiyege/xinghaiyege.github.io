@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://byx.vercel.app</id>
+    <title>星祤书架 • Posts by &#34;教程&#34; category</title>
+    <link href="https://byx.vercel.app" />
+    <updated>2020-10-20T12:31:28.000Z</updated>
+    <category term="编程" />
+    <category term="C#" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="网站" />
+    <category term="Win10" />
+    <category term="Android" />
+    <category term="Minecraft（我的世界）" />
+    <category term="基岩版" />
+    <category term="Java版" />
+    <category term="工具" />
+    <category term="教程" />
+    <category term="安卓" />
+    <category term="IDE" />
+    <category term="软件时间轴" />
+    <entry>
+        <id>https://byx.vercel.app/note/tutorial/android/set_android_dns/</id>
+        <title>设置DNS（安卓篇）</title>
+        <link rel="alternate" href="https://byx.vercel.app/note/tutorial/android/set_android_dns/"/>
+        <content type="html">&lt;h1 id=&#34;设置DNS（安卓篇）&#34;&gt;&lt;a href=&#34;#设置DNS（安卓篇）&#34; class=&#34;headerlink&#34; title=&#34;设置DNS（安卓篇）&#34;&gt;&lt;/a&gt;设置DNS（安卓篇）&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;进入 &lt;code&gt;设置&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;WLAN&lt;/code&gt; 选项。&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;当前连接着的 WiFi&lt;/code&gt; 右边的 &lt;code&gt;&amp;gt;&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;IP设置&lt;/code&gt; 切换为 &lt;code&gt;静态&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DNS 1&lt;/code&gt; 设置为： &lt;code&gt;223.5.5.5&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DNS 2&lt;/code&gt; 设置为： &lt;code&gt;223.6.6.6&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;设置完成后点击右上角的 &lt;code&gt;√&lt;/code&gt; 完成设置。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="教程" />
+        <category term="安卓" />
+        <updated>2020-10-20T12:31:28.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://byx.vercel.app/note/tutorial/windows/download_win10/</id>
+        <title>下载 Windows 10 系统</title>
+        <link rel="alternate" href="https://byx.vercel.app/note/tutorial/windows/download_win10/"/>
+        <content type="html">&lt;h1 id=&#34;下载-Windows-10-系统&#34;&gt;&lt;a href=&#34;#下载-Windows-10-系统&#34; class=&#34;headerlink&#34; title=&#34;下载 Windows 10 系统&#34;&gt;&lt;/a&gt;下载 Windows 10 系统&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;安装前，请确保 C 盘（系统盘）有 20 G 以上的存储空间。&lt;br&gt;下载前，请核对操作系统的位数。&lt;br&gt;下载前，请确保电脑中有 ED2K 下载软件（例如：迅雷）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;»-LTSC-版：&#34;&gt;&lt;a href=&#34;#»-LTSC-版：&#34; class=&#34;headerlink&#34; title=&#34;» LTSC 版：&#34;&gt;&lt;/a&gt;» LTSC 版：&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;首推理由：系统占用存储少、内存占用少、CPU占用少。&lt;br&gt;无 Win10 应用商店、无微软小娜、无 UWP 应用，更新频率少而且稳定。&lt;br&gt;Win10 应用商店可通过手动安装，然后再安装其他的 UWP 应用。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;密钥：&lt;code&gt;YJQNW-QH3Y8-JDHW2-MGV9F-2KCR9&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;64位：&lt;span class=&#34;exturl&#34; data-url=&#34;ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfZW50ZXJwcmlzZV9sdHNjXzIwMTlfeDY0X2R2ZF85YzA5ZmYyNC5pc298NDQ3ODkwNjM2OHxFN0M1MjY0OTkzMDg4NDFBNEE2RDExNkM4NTdEQjY2OXwv&#34;&gt;ED2K 下载链接&lt;/span&gt;，发布时间 2019-03-15&lt;/li&gt;
+&lt;li&gt;32位：&lt;span class=&#34;exturl&#34; data-url=&#34;ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfZW50ZXJwcmlzZV9sdHNjXzIwMTlfeDg2X2R2ZF8xODE0ZGJhYi5pc298MzE5NjgwMzA3MnwyRDM5QzU0QTJFOTlCQUMzMDgxOTFDNzRBMTVCMzIzN3wv&#34;&gt;ED2K 下载链接&lt;/span&gt;，发布时间 2019-03-15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-企业版、教育版、专业版：&#34;&gt;&lt;a href=&#34;#»-企业版、教育版、专业版：&#34; class=&#34;headerlink&#34; title=&#34;» 企业版、教育版、专业版：&#34;&gt;&lt;/a&gt;» 企业版、教育版、专业版：&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;推荐怕给怕麻烦的人。&lt;br&gt;有 Win10 应用商店、有微软小娜、有 UWP 应用，更新频率频繁。&lt;br&gt;由安装密钥决定版本，激活后可通过密钥再次更换为别的版本再次激活。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;密钥：&lt;code&gt;NK96Y-D9CD8-W44CQ-R8YTK-DYJWX&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;64位：&lt;span class=&#34;exturl&#34; data-url=&#34;ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfYnVzaW5lc3NfZWRpdGlvbnNfdmVyc2lvbl8yMGgyX3VwZGF0ZWRfYXByaWxfMjAyMV94NjRfZHZkXzBhMGZjNDkwLmlzb3w2MTY1ODMxNjgwfDlCNEI5MThBODQwRjg0NUE0M0RENDc2RkNFQzNFNDIxfC8=&#34;&gt;ED2K 下载链接&lt;/span&gt;，发布时间 2021-04-20&lt;/li&gt;
+&lt;li&gt;32位：&lt;span class=&#34;exturl&#34; data-url=&#34;ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfYnVzaW5lc3NfZWRpdGlvbnNfdmVyc2lvbl8yMGgyX3VwZGF0ZWRfYXByaWxfMjAyMV94ODZfZHZkXzBlOTRiMzNjLmlzb3w0NTM4NzQyNzg0fEE3MzhEQkU3NzEzN0RCOUFFQ0Q4QzU2NTAwMDExNzRCfC8=&#34;&gt;ED2K 下载链接&lt;/span&gt;，发布时间 2021-04-20&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-自选系统与版本：&#34;&gt;&lt;a href=&#34;#»-自选系统与版本：&#34; class=&#34;headerlink&#34; title=&#34;» 自选系统与版本：&#34;&gt;&lt;/a&gt;» 自选系统与版本：&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;推荐专业人士，不懂电脑请看上面的两个版本。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;链接 1：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tc2RuLml0ZWxseW91LmNuLw==&#34;&gt;MSDN，我告诉你（旧站）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;链接 2：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZXh0Lml0ZWxseW91LmNuL09yaWdpbmFsL0luZGV4&#34;&gt;MSDN，我告诉你（新站）&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="Win10" />
+        <category term="教程" />
+        <updated>2020-10-20T12:31:24.000Z</updated>
+    </entry>
+</feed>

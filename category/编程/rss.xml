@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>星祤书架 • Posts by &#34;编程&#34; category</title>
+        <link>https://byx.vercel.app</link>
+        <description>游戏更新 &amp; 编程笔记</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 23 Sep 2019 23:03:39 +0800</pubDate>
+        <lastBuildDate>Mon, 23 Sep 2019 23:03:39 +0800</lastBuildDate>
+        <category>编程</category>
+        <category>C#</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>网站</category>
+        <category>Win10</category>
+        <category>Android</category>
+        <category>Minecraft（我的世界）</category>
+        <category>基岩版</category>
+        <category>Java版</category>
+        <category>工具</category>
+        <category>教程</category>
+        <category>安卓</category>
+        <category>IDE</category>
+        <category>软件时间轴</category>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/ide/add_vscode_to_the_right_click_menu/</guid>
+            <title>添加 vscode 到右键菜单</title>
+            <link>https://byx.vercel.app/note/program/ide/add_vscode_to_the_right_click_menu/</link>
+            <category>编程</category>
+            <category>IDE</category>
+            <pubDate>Mon, 23 Sep 2019 23:03:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-bash&#34; data-language=&#34;bash&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;Windows Registry Editor Version &lt;span class=&#34;token number&#34;&gt;5.00&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;*&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;用 Visual Studio Code 打开&#34;&lt;/span&gt;
+&lt;span class=&#34;token string&#34;&gt;&#34;Icon&#34;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&#34;&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;*&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;command&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt; &lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%1&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;&#34;&lt;/span&gt;
+
+Windows Registry Editor Version &lt;span class=&#34;token number&#34;&gt;5.00&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Directory&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;用 Visual Studio Code 打开&#34;&lt;/span&gt;
+&lt;span class=&#34;token string&#34;&gt;&#34;Icon&#34;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&#34;&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Directory&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;command&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt; &lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%V&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;&#34;&lt;/span&gt;
+
+Windows Registry Editor Version &lt;span class=&#34;token number&#34;&gt;5.00&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Directory&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Background&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;用 Visual Studio Code 打开&#34;&lt;/span&gt;
+&lt;span class=&#34;token string&#34;&gt;&#34;Icon&#34;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&#34;&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Directory&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Background&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;command&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt; &lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%V&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;&#34;&lt;/span&gt;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/computer_science/all_modes_of_raid_are_explained-in-detail/</guid>
+            <title>RAID所有模式详解</title>
+            <link>https://byx.vercel.app/note/computer_science/all_modes_of_raid_are_explained-in-detail/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 + 1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;串联&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;JBOD&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-0&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-0&#34;&gt;#&lt;/a&gt; RAID 0&lt;/h1&gt;
+&lt;h4 id=&#34;介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;  是  &lt;code&gt;速度最快&lt;/code&gt;  的一种  &lt;code&gt;RAID 模式&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;   &lt;code&gt;至少需要两个磁盘&lt;/code&gt; ，并且会将  &lt;code&gt;数据分条到每个磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;所有磁盘的可用容量合在一起&lt;/code&gt; ，成为计算机上的 &lt;code&gt;一个逻辑卷&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘发生故障&lt;/code&gt; ， &lt;code&gt;所有磁盘的数据&lt;/code&gt;  都将  &lt;code&gt;不可访问&lt;/code&gt; ，因为  &lt;code&gt;数据分条到每个磁盘&lt;/code&gt;  里了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;  是要求  &lt;code&gt;最高速度&lt;/code&gt;  和  &lt;code&gt;最大容量&lt;/code&gt;  的  &lt;code&gt;理想选择&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;要  &lt;code&gt;处理超大型文件的视频编缉&lt;/code&gt;  可以使用  &lt;code&gt;RAID 0&lt;/code&gt;  来编辑视频的多个流，以达到  &lt;code&gt;最佳播放效果&lt;/code&gt;  和  &lt;code&gt;最快导出效果&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;  阵列  &lt;code&gt;更适于在频繁的文件处理&lt;/code&gt;  中使用， &lt;code&gt;不宜用作唯一的存储备份解决方案&lt;/code&gt; ，也  &lt;code&gt;不宜在关键任务系统中使用&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;读写速度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读写速度&#34;&gt;#&lt;/a&gt; 读写速度：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 读写速度&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  x  &lt;code&gt;磁盘读写速度&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  x  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-1&#34;&gt;#&lt;/a&gt; RAID 1&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-2&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 1&lt;/code&gt;  是一种  &lt;code&gt;安全&lt;/code&gt;  的  &lt;code&gt;RAID 模式&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 1&lt;/code&gt;   &lt;code&gt;至少需要两个磁盘&lt;/code&gt; ，并且磁盘成对计算机上将安装  &lt;code&gt;一个逻辑卷&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;两个磁盘&lt;/code&gt;  合并后的  &lt;code&gt;可用容量&lt;/code&gt;  限制为  &lt;code&gt;最小磁盘的容量上限&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，可以立即从  &lt;code&gt;第二个磁盘上获取数据&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;即使  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，也  &lt;code&gt;不会丢失任何数据&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-2&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 1&lt;/code&gt;  可提供  &lt;code&gt;最高的数据安全性&lt;/code&gt; ，但由于  &lt;code&gt;数据需写入两次&lt;/code&gt; ，因此在  &lt;code&gt;写入时性能会略有下降&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;更注重安全性而非速度&lt;/code&gt;  的情况下， &lt;code&gt;RAID 1&lt;/code&gt;  是  &lt;code&gt;理想选择&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;读写速度-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读写速度-2&#34;&gt;#&lt;/a&gt; 读写速度：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 1 读写速度&lt;/code&gt;  ≤  &lt;code&gt;磁盘数&lt;/code&gt;  x  &lt;code&gt;读写速度&lt;/code&gt;  /  &lt;code&gt;磁盘数&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-2&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 1 可用容量&lt;/code&gt;  ≤  &lt;code&gt;磁盘数&lt;/code&gt;  x  &lt;code&gt;磁盘容量&lt;/code&gt;  /  &lt;code&gt;2&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-3&#34;&gt;#&lt;/a&gt; RAID 3&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-3&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  使用  &lt;code&gt;字节级别的条带化&lt;/code&gt;  技术&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  采用  &lt;code&gt;专用的奇偶校验磁盘&lt;/code&gt; ，因此计算机上会安装  &lt;code&gt;一个逻辑卷&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  阵列能在  &lt;code&gt;一个磁盘出现故障&lt;/code&gt;  的情况下  &lt;code&gt;确保数据不丢失&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，该磁盘上的  &lt;code&gt;数据可以重建到更换磁盘上&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;数据尚未重建到更换磁盘上&lt;/code&gt; ，而此时  &lt;code&gt;又有一个磁盘出现故障&lt;/code&gt; ，那么阵列中的  &lt;code&gt;所有数据都将丢失&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-3&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  在要  &lt;code&gt;读取连续的长文件&lt;/code&gt; （如：视频文件）的环境中  &lt;code&gt;可提供良好的数据安全性&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;由于数据是从  &lt;code&gt;奇偶校验块中读取&lt;/code&gt; ，因此  &lt;code&gt;磁盘故障不会导致服务中断&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  适用于  &lt;code&gt;追求性能并要求持续访问数据&lt;/code&gt; （如：视频编辑）&lt;/li&gt;
+&lt;li&gt;对于  &lt;code&gt;密集使用不连续文件&lt;/code&gt;  来说， &lt;code&gt;RAID 3&lt;/code&gt;  并  &lt;code&gt;非理想之选&lt;/code&gt; ，因为  &lt;code&gt;专用的奇偶校验磁盘&lt;/code&gt;  会影响  &lt;code&gt;随机读取性能&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;读写速度-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读写速度-3&#34;&gt;#&lt;/a&gt; 读写速度：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 读写速度&lt;/code&gt;  ≤ (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;1&lt;/code&gt;  ) x  &lt;code&gt;磁盘读写速度&lt;/code&gt;  /  (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;1&lt;/code&gt;  )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-3&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;1&lt;/code&gt;  ) x  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-3-spare&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-3-spare&#34;&gt;#&lt;/a&gt; RAID 3 + Spare&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-4&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare&lt;/code&gt;  模式下，阵列中会有  &lt;code&gt;一个磁盘保持空置状态&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，故障磁盘中的数据就会  &lt;code&gt;自动重建到空磁盘（备用磁盘）上&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-4&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare&lt;/code&gt;  模式下， &lt;code&gt;磁盘故障不需要立即处理&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare&lt;/code&gt;  会使用  &lt;code&gt;热备用磁盘对自己进行重建&lt;/code&gt; ，但  &lt;code&gt;故障磁盘还是应尽快更换&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-4&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;2&lt;/code&gt;  ) *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-5&#34;&gt;#&lt;/a&gt; RAID 5&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-5&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;  综合了  &lt;code&gt;RAID 0&lt;/code&gt;  的  &lt;code&gt;条带化技术&lt;/code&gt;  以及  &lt;code&gt;阵列数据冗余技术&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;   &lt;code&gt;至少需要三个磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  和  &lt;code&gt;RAID 5&lt;/code&gt;  的区别： &lt;code&gt;RAID 3&lt;/code&gt;  配置提供的  &lt;code&gt;性能更高&lt;/code&gt; ，但  &lt;code&gt;总容量略低&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;数据会在  &lt;code&gt;所有磁盘之间分条&lt;/code&gt; ，并且  &lt;code&gt;每个数据块的奇偶校验块 (P) 写入到同一条带上&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，该磁盘上的数据  &lt;code&gt;可以重建到更换磁盘上&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;出现故障时， &lt;code&gt;数据不会丢失&lt;/code&gt; ，但如果  &lt;code&gt;数据尚未重建到更换磁盘上&lt;/code&gt; ，而此时  &lt;code&gt;又有一个磁盘出现故障&lt;/code&gt; ，阵列中的  &lt;code&gt;所有数据都将丢失&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-5&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;  综合考虑了  &lt;code&gt;数据安全&lt;/code&gt;  和  &lt;code&gt;磁盘空间充分利用&lt;/code&gt;  这两方面的因素&lt;/li&gt;
+&lt;li&gt;由于数据是从  &lt;code&gt;奇偶校验块中读取&lt;/code&gt; ，因此  &lt;code&gt;磁盘故障不会导致服务中断&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;  适用于  &lt;code&gt;归档&lt;/code&gt; ，且  &lt;code&gt;适合追求性能并要求持续访问数据&lt;/code&gt; （如：视频编辑）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-5&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;1&lt;/code&gt;  ) *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-5-spare&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-5-spare&#34;&gt;#&lt;/a&gt; RAID 5 + Spare&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-6&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;  是一种  &lt;code&gt;RAID 5&lt;/code&gt;  阵列，其中有  &lt;code&gt;一个磁盘用作备用磁盘&lt;/code&gt; ，用于在  &lt;code&gt;磁盘发生故障时立即重建系统&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;   &lt;code&gt;至少需要四个磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘发生故障&lt;/code&gt; ，磁盘上的  &lt;code&gt;数据仍然可以访问&lt;/code&gt; ，因为数据是  &lt;code&gt;从奇偶校验块&lt;/code&gt;  中读取的&lt;/li&gt;
+&lt;li&gt;故障磁盘上的数据  &lt;code&gt;将重建到热备用磁盘上&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;当  &lt;code&gt;故障磁盘更换后&lt;/code&gt; ， &lt;code&gt;更换的磁盘便成为新的热备用磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;出现故障时， &lt;code&gt;数据不会丢失&lt;/code&gt; ，但如果  &lt;code&gt;系统尚未将数据 重建到热备用磁盘上&lt;/code&gt; ，而此时  &lt;code&gt;又有一个磁盘出现故障&lt;/code&gt; ，那么阵列中的  &lt;code&gt;所有数据都将丢失&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-6&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;  的优点：在系统将  &lt;code&gt;数据重建至备用磁盘时用户仍可以继续访问数据&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;  能  &lt;code&gt;提供良好的数据安全&lt;/code&gt; ，但  &lt;code&gt;磁盘空间由于热备用磁盘的存在&lt;/code&gt; （在其他磁盘出现故障之后才使用）而  &lt;code&gt;受到限制&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;  会使用  &lt;code&gt;热备用磁盘对自己进行重建&lt;/code&gt; ，但  &lt;code&gt;故障磁盘还是应尽快更换&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-6&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;2&lt;/code&gt;  ) *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-6&#34;&gt;#&lt;/a&gt; RAID 6&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-7&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-7&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;  的数据会在  &lt;code&gt;所有磁盘间进行分条&lt;/code&gt; ，并且  &lt;code&gt;每个数据块&lt;/code&gt;  的  &lt;code&gt;两个奇偶校验块&lt;/code&gt;  写入到  &lt;code&gt;同一条带&lt;/code&gt;  上&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;   &lt;code&gt;至少需要四个磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，该磁盘上的  &lt;code&gt;数据可以重建到更换磁盘&lt;/code&gt;  上&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;   &lt;code&gt;最多允许两个磁盘出故障&lt;/code&gt;  而  &lt;code&gt;不丢失数据&lt;/code&gt; ，而且它能  &lt;code&gt;更快地重建故障磁盘上的数据&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-7&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-7&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;  能  &lt;code&gt;进行有效的重建&lt;/code&gt; ， &lt;code&gt;确保了数据的可靠性&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;安全性要求较高&lt;/code&gt;  且对  &lt;code&gt;性能要求不高&lt;/code&gt;  可以选择  &lt;code&gt;RAID 6&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-7&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-7&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 6 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;2&lt;/code&gt;  ) *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-0-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-0-1&#34;&gt;#&lt;/a&gt; RAID 0 + 1&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-8&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-8&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 + 1&lt;/code&gt;  是一种  &lt;code&gt;安全&lt;/code&gt;  的  &lt;code&gt;RAID 模式&lt;/code&gt; ， &lt;code&gt;由条带集的镜像组成&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 + 1&lt;/code&gt;  的  &lt;code&gt;磁盘数 为 四的倍数&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;RAID 0 + 1&lt;/code&gt;  中， &lt;code&gt;五个磁盘 的 第五个磁盘&lt;/code&gt;  将成为  &lt;code&gt;备用磁盘&lt;/code&gt;  或  &lt;code&gt;空置磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;RAID 0 + 1&lt;/code&gt;  中， &lt;code&gt;最多允许两个磁盘出现故障&lt;/code&gt;  而  &lt;code&gt;不会丢失数据&lt;/code&gt; ，但故障磁盘  &lt;code&gt;必须属于同一 RAID 0 队列&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-8&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-8&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0+1&lt;/code&gt;  使用  &lt;code&gt;RAID 0 条带技术&lt;/code&gt;  来  &lt;code&gt;提供良好的速度&lt;/code&gt; ，但设备的  &lt;code&gt;可用容量会减少一半&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-8&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-8&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 + 1 可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  *  &lt;code&gt;磁盘容量&lt;/code&gt;  /  &lt;code&gt;2&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-10&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-10&#34;&gt;#&lt;/a&gt; RAID 10&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-9&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-9&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt; （也称为  &lt;code&gt;RAID 1 + 0&lt;/code&gt; ）是合并了其他级别（尤其是  &lt;code&gt;RAID 1&lt;/code&gt;  和  &lt;code&gt;RAID 0&lt;/code&gt; ）特点的另一种 RAID 级别&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt;  是一种  &lt;code&gt;镜像集条带&lt;/code&gt; ，意思是  &lt;code&gt;数据在两个镜像阵列间分条&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;条带化&lt;/code&gt;  在阵列之间发生，而  &lt;code&gt;镜像&lt;/code&gt;  是  &lt;code&gt;在相同的阵列中出现&lt;/code&gt; ， &lt;code&gt;两种技术的组合加快了重建的速度&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt;  的  &lt;code&gt;磁盘数 为 四的倍数&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;RAID 10&lt;/code&gt;  中， &lt;code&gt;五个磁盘 的 第五个磁盘&lt;/code&gt;  将成为  &lt;code&gt;备用磁盘&lt;/code&gt;  或  &lt;code&gt;空置磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;RAID 10&lt;/code&gt;  中， &lt;code&gt;每个镜像&lt;/code&gt;  对中  &lt;code&gt;可以有一个磁盘出现故障&lt;/code&gt;  而  &lt;code&gt;不丢失数据&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;故障磁盘  &lt;code&gt;所在阵列的磁盘会成为整个阵列中的弱点&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;镜像&lt;/code&gt;  对中的  &lt;code&gt;另一个磁盘也发生故障&lt;/code&gt; ，则  &lt;code&gt;会丢失整个阵列&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-9&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-9&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt;  使用  &lt;code&gt;RAID 0&lt;/code&gt;   &lt;code&gt;条带技术&lt;/code&gt;  来  &lt;code&gt;提供良好的速度&lt;/code&gt; ，但设备的  &lt;code&gt;可用容量会减少一半&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-9&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-9&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 10 可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  *  &lt;code&gt;磁盘容量&lt;/code&gt;  /  &lt;code&gt;2&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;串联&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#串联&#34;&gt;#&lt;/a&gt; 串联&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-10&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-10&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;磁盘  &lt;code&gt;串联&lt;/code&gt;  时，其  &lt;code&gt;容量&lt;/code&gt;  将会  &lt;code&gt;合并&lt;/code&gt; ，并且数据会写入阵列中的主磁盘，主磁盘写满后再写入下一个磁盘&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;串联&lt;/code&gt;   &lt;code&gt;无性能优势&lt;/code&gt; ，也  &lt;code&gt;不能增加数据安全措施&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;串联&lt;/code&gt;  只是  &lt;code&gt;扩大总容量&lt;/code&gt;  而将  &lt;code&gt;两个磁盘组合为一个卷&lt;/code&gt;  的方法&lt;/li&gt;
+&lt;li&gt;通过  &lt;code&gt;串联可以完全使用阵列&lt;/code&gt;  中  &lt;code&gt;所有磁盘的容量&lt;/code&gt; ，并且在磁盘发生故障时  &lt;code&gt;大部分数据都可以保存下来&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;只有  &lt;code&gt;故障磁盘上的数据&lt;/code&gt;  、 &lt;code&gt;部分写入故障磁盘&lt;/code&gt;  和  &lt;code&gt;作业磁盘的数据才会丢失&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-10&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-10&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;串联可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;jbod&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#jbod&#34;&gt;#&lt;/a&gt; JBOD&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-11&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-11&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;JBOD&lt;/code&gt;  代表  &lt;code&gt;简单磁盘捆绑&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;阵列中的  &lt;code&gt;每个磁盘&lt;/code&gt; ，无论是属于  &lt;code&gt;不同设备&lt;/code&gt;  还是  &lt;code&gt;同一设备&lt;/code&gt; ，都会作为  &lt;code&gt;单独的磁盘&lt;/code&gt;  安装在计算机上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-11&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-11&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;JBOD可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/compress_json_data/</guid>
+            <title>C# 压缩json数据</title>
+            <link>https://byx.vercel.app/note/program/csharp/compress_json_data/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;static void Main() &amp;#123;
+    string json_data &amp;#x3D; &amp;quot;假装json数据&amp;quot;;
+    &amp;#x2F;&amp;#x2F; 压缩 json 数据
+    string json_data &amp;#x3D; JsonCompress(json_data);
+&amp;#125;
+
+public static string JsonCompress(string json)
+&amp;#123;
+    StringBuilder sb &amp;#x3D; new StringBuilder();
+    using (StringReader reader &amp;#x3D; new StringReader(json))
+    &amp;#123;
+        int ch &amp;#x3D; -1;
+        int lastch &amp;#x3D; -1;
+        bool isQuoteStart &amp;#x3D; false;
+        while ((ch &amp;#x3D; reader.Read()) &amp;gt; -1)
+        &amp;#123;
+            if ((char)lastch !&amp;#x3D; &amp;#39;\\&amp;#39; &amp;amp;&amp;amp; (char)ch &amp;#x3D;&amp;#x3D; &amp;#39;\&amp;quot;&amp;#39;)
+            &amp;#123;
+                if (!isQuoteStart) isQuoteStart &amp;#x3D; true;
+                else isQuoteStart &amp;#x3D; false;
+            &amp;#125;
+            if (!Char.IsWhiteSpace((char)ch) || isQuoteStart) sb.Append((char)ch);
+            lastch &amp;#x3D; ch;
+        &amp;#125;
+    &amp;#125;
+    return sb.ToString();
+&amp;#125;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/get_the_number_of_system_bits/</guid>
+            <title>C# 获取系统位数</title>
+            <link>https://byx.vercel.app/note/program/csharp/get_the_number_of_system_bits/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;if (Environment.Is64BitOperatingSystem) &amp;#123;
+    Console.WriteLine(&amp;quot;64 位系统&amp;quot;);
+&amp;#125; else &amp;#123;
+    Console.WriteLine(&amp;quot;32 位系统&amp;quot;);
+&amp;#125;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/get_the_resolution_of_the_monitor/</guid>
+            <title>C# 获取显示器分辨率</title>
+            <link>https://byx.vercel.app/note/program/csharp/get_the_resolution_of_the_monitor/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;&amp;#x2F;&amp;#x2F; 获取：显示器分辨率的宽度
+int width &amp;#x3D; Screen.PrimaryScreen.Bounds.Width;
+&amp;#x2F;&amp;#x2F; 获取：显示器分辨率的高度
+int height &amp;#x3D; Screen.PrimaryScreen.Bounds.Height;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/serialize_and_deserialize_yaml/</guid>
+            <title>C# 读取和使用 yaml</title>
+            <link>https://byx.vercel.app/note/program/csharp/serialize_and_deserialize_yaml/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;using System;
+using System.IO;
+using YamlDotNet.Serialization;
+
+namespace Test
+&amp;#123;
+    public class Test
+    &amp;#123;
+        static void Main()
+        &amp;#123;
+            &amp;#x2F;&amp;#x2F; 读取
+            string str &amp;#x3D; File.ReadAllText(&amp;quot;cat.yaml&amp;quot;);
+            Animal cat &amp;#x3D; new DeserializerBuilder().Build().Deserialize&amp;lt;Animal&amp;gt;(str);
+            Console.WriteLine(cat.name);
+            
+            &amp;#x2F;&amp;#x2F; 写入
+            string str2 &amp;#x3D; new SerializerBuilder().Build().Serialize(cat);
+            Console.WriteLine(str2);
+        &amp;#125;
+    &amp;#125;
+
+    public class Animal
+    &amp;#123;
+        public string name &amp;#123; get; set; &amp;#125;
+        public int age &amp;#123; get; set; &amp;#125;
+    &amp;#125;
+&amp;#125;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/set_textbox_to_multiline_text/</guid>
+            <title>C# 设置 TextBox 为多行文本</title>
+            <link>https://byx.vercel.app/note/program/csharp/set_textbox_to_multiline_text/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;&amp;#x2F;&amp;#x2F; 设置 TextBox 为多行文本
+TextBox.AcceptsReturn &amp;#x3D; true;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/use_zip_to_compress_files_and_folders/</guid>
+            <title>C# 使用 zip 压缩文件和文件夹</title>
+            <link>https://byx.vercel.app/note/program/csharp/use_zip_to_compress_files_and_folders/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;using ICSharpCode.SharpZipLib.Checksum;
+using ICSharpCode.SharpZipLib.Zip;
+
+namespace Test
+&amp;#123;
+    static void Main() &amp;#123;
+        &amp;#x2F;&amp;#x2F; 打包为 zip
+        Zip(@&amp;quot;C:\打包的路径&amp;quot;, @&amp;quot;D:\目标路径的zip文件.zip&amp;quot;);
+    &amp;#125;
+
+    public static void Zip(string folderToZip, string zipedFile)
+    &amp;#123;
+        ZipOutputStream zipStream &amp;#x3D; new ZipOutputStream(File.Create(Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + @&amp;quot;\&amp;quot; + zipedFile));
+        &amp;#x2F;&amp;#x2F; 设置压缩率
+        &amp;#x2F;&amp;#x2F; zipStream.SetLevel(4);
+        ZipDirectory(folderToZip, zipStream);
+        zipStream.Finish();
+        zipStream.Close();
+    &amp;#125;
+
+    public static void ZipDirectory(string folderToZip, ZipOutputStream zipStream)
+    &amp;#123;
+        string[] folders, files;
+        FileStream fs &amp;#x3D; null;
+        Crc32 crc &amp;#x3D; new Crc32();
+
+        files &amp;#x3D; Directory.GetFiles(folderToZip);
+        foreach (string file in files)
+        &amp;#123;
+            fs &amp;#x3D; File.OpenRead(file);
+            byte[] buffer &amp;#x3D; new byte[fs.Length];
+            fs.Read(buffer, 0, buffer.Length);
+            ZipEntry ent &amp;#x3D; new ZipEntry(file.Replace(Path.GetDirectoryName(root_dir) + @&amp;quot;\&amp;quot;, &amp;quot;&amp;quot;));
+            ent.DateTime &amp;#x3D; DateTime.Now;
+            ent.Size &amp;#x3D; fs.Length;
+            fs.Close();
+            crc.Reset();
+            crc.Update(buffer);
+            ent.Crc &amp;#x3D; crc.Value;
+            zipStream.PutNextEntry(ent);
+            zipStream.Write(buffer, 0, buffer.Length);
+        &amp;#125;
+        if (fs !&amp;#x3D; null)
+        &amp;#123;
+            fs.Close();
+            fs.Dispose();
+        &amp;#125;
+        GC.Collect();
+        GC.Collect(1);
+
+        folders &amp;#x3D; Directory.GetDirectories(folderToZip);
+        foreach (string folder in folders)
+        &amp;#123;
+            ZipDirectory(folder, zipStream);
+        &amp;#125;
+    &amp;#125;
+&amp;#125;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

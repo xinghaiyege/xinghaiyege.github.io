@@ -1,0 +1,24 @@
+[[list]]
+name = "煤炭"
+recommend = "96 / 136"
+general = "32 ~ 256"
+[[list]]
+name = "粗铁"
+recommend = "16 / 232"
+general = "16 ~ 48 / 112 以上"
+[[list]]
+name = "粗金"
+recommend = "48"
+general = "16 ~ 80"
+[[list]]
+name = "青金石"
+recommend = "0"
+general = "-16 ~ 16"
+[[list]]
+name = "钻石"
+recommend = "-64"
+general = "-64 ~ 0"
+[[list]]
+name = "红石"
+recommend = "-64"
+general = "-64 ~ 16"

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>星祤书架 • Posts by &#34;浏览器&#34; tag</title>
+        <link>https://byx.vercel.app</link>
+        <description>游戏更新 &amp; 编程笔记</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+        <lastBuildDate>Sun, 28 Mar 2021 08:28:35 +0800</lastBuildDate>
+        <category>编程</category>
+        <category>C#</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>网站</category>
+        <category>Win10</category>
+        <category>Android</category>
+        <category>Minecraft（我的世界）</category>
+        <category>基岩版</category>
+        <category>Java版</category>
+        <category>工具</category>
+        <category>教程</category>
+        <category>安卓</category>
+        <category>IDE</category>
+        <category>软件时间轴</category>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/suggest/browser_plugin/</guid>
+            <title>推荐浏览器插件</title>
+            <link>https://byx.vercel.app/note/suggest/browser_plugin/</link>
+            <category>推荐</category>
+            <category>浏览器</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;推荐浏览器插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#推荐浏览器插件&#34;&gt;#&lt;/a&gt; » 推荐浏览器插件&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;插件&lt;/th&gt;
+&lt;th&gt;评价&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9hZGd1YXJkLSVFNSVCOSVCRiVFNSU5MSU4QSVFNiU4QiVBNiVFNiU4OCVBQSVFNSU5OSVBOC9wZGZma2ZlbGxnaXBtaGtscGRtb2ttY2tra2Zjb3BiaA==&#34;&gt;AdGuard&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;最好用的广告拦截程序&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTQlQjklQTYlRTclQUQlQkUlRTQlQkUlQTclRTglQkUlQjklRTYlQTAlOEYvbG1qZWZiZ2hrZmVwcG5wb2ZtYmZtaGdvZHBjbGlwYmw=&#34;&gt;书签侧边栏&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;书签、收藏夹&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTYlOEQlOTUlRTYlOEQlODklRTclQkQlOTElRTklQTElQjUlRTYlODglQUElRTUlOUIlQkUtZmlyZXNob3QlRTclOUElODQvZmNibWlpbWZrbWtra2ZmamxvcGNwZGxnY2xuY25rbm0=&#34;&gt;FireShot&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;网页截长图&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC90YW1wZXJtb25rZXkvaWlrbWtqbXBhYWRhb2JhaG1sZXBlbG9lbmRuZGZwaGQ=&#34;&gt;Tampermonkey（油猴脚本）&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;脚本管理器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9waXAtcGljdHVyZS1pbi1waWN0dXJlLS9nb2tkcG5oYWdnb2lvZGRjbG5ubHBqZm5rZGluampjYw==&#34;&gt;Picture in Picture Plus&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;视频窗口化（小视频）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9yZWRpcmVjdG9yL2pkaGRqYmNhbG5mYm1mZHBmZ2djb2dhZWdmY2pkY2Zw&#34;&gt;Redirector&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;链接重定向&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9zdHlsZWJvdC9tam9sYnBmZWRubmJlYmZhcGljYWpwaWZsaW9wbm5haQ==&#34;&gt;Stylebot&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;修改网页样式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9pZ2clRTglQjAlQjclRTYlQUQlOEMlRTglQUUlQkYlRTklOTclQUUlRTUlOEElQTklRTYlODklOEIvbWNoaWJsZW9lZmlsZWVtamZnaGZlamFnZ29ucGxtbWc=&#34;&gt;iGuge 魔法上网&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;可以使用世界上最好的搜索引擎&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTglQjAlQjclRTYlQUQlOEMlRTQlQjglOEElRTclQkQlOTElRTUlOEElQTklRTYlODklOEIvZW9ib29qb2tkbWFtYWhmaWxmbWFtamprY21rbWRkZ2s=&#34;&gt;Ghelper 魔法上网&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;可以使用世界上最好的搜索引擎&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

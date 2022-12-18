@@ -1,0 +1,64 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "星祤书架 • All posts by \"推荐\" category",
+    "description": "游戏更新 & 编程笔记",
+    "home_page_url": "https://byx.vercel.app",
+    "items": [
+        {
+            "id": "https://byx.vercel.app/note/suggest/browser_plugin/",
+            "url": "https://byx.vercel.app/note/suggest/browser_plugin/",
+            "title": "推荐浏览器插件",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"推荐浏览器插件\"><a class=\"anchor\" href=\"#推荐浏览器插件\">#</a> » 推荐浏览器插件</h1>\n<table>\n<thead>\n<tr>\n<th>插件</th>\n<th>评价</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9hZGd1YXJkLSVFNSVCOSVCRiVFNSU5MSU4QSVFNiU4QiVBNiVFNiU4OCVBQSVFNSU5OSVBOC9wZGZma2ZlbGxnaXBtaGtscGRtb2ttY2tra2Zjb3BiaA==\">AdGuard</span></td>\n<td>最好用的广告拦截程序</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTQlQjklQTYlRTclQUQlQkUlRTQlQkUlQTclRTglQkUlQjklRTYlQTAlOEYvbG1qZWZiZ2hrZmVwcG5wb2ZtYmZtaGdvZHBjbGlwYmw=\">书签侧边栏</span></td>\n<td>书签、收藏夹</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTYlOEQlOTUlRTYlOEQlODklRTclQkQlOTElRTklQTElQjUlRTYlODglQUElRTUlOUIlQkUtZmlyZXNob3QlRTclOUElODQvZmNibWlpbWZrbWtra2ZmamxvcGNwZGxnY2xuY25rbm0=\">FireShot</span></td>\n<td>网页截长图</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC90YW1wZXJtb25rZXkvaWlrbWtqbXBhYWRhb2JhaG1sZXBlbG9lbmRuZGZwaGQ=\">Tampermonkey（油猴脚本）</span></td>\n<td>脚本管理器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9waXAtcGljdHVyZS1pbi1waWN0dXJlLS9nb2tkcG5oYWdnb2lvZGRjbG5ubHBqZm5rZGluampjYw==\">Picture in Picture Plus</span></td>\n<td>视频窗口化（小视频）</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9yZWRpcmVjdG9yL2pkaGRqYmNhbG5mYm1mZHBmZ2djb2dhZWdmY2pkY2Zw\">Redirector</span></td>\n<td>链接重定向</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9zdHlsZWJvdC9tam9sYnBmZWRubmJlYmZhcGljYWpwaWZsaW9wbm5haQ==\">Stylebot</span></td>\n<td>修改网页样式</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9pZ2clRTglQjAlQjclRTYlQUQlOEMlRTglQUUlQkYlRTklOTclQUUlRTUlOEElQTklRTYlODklOEIvbWNoaWJsZW9lZmlsZWVtamZnaGZlamFnZ29ucGxtbWc=\">iGuge 魔法上网</span></td>\n<td>可以使用世界上最好的搜索引擎</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTglQjAlQjclRTYlQUQlOEMlRTQlQjglOEElRTclQkQlOTElRTUlOEElQTklRTYlODklOEIvZW9ib29qb2tkbWFtYWhmaWxmbWFtamprY21rbWRkZ2s=\">Ghelper 魔法上网</span></td>\n<td>可以使用世界上最好的搜索引擎</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "推荐",
+                "浏览器"
+            ]
+        },
+        {
+            "id": "https://byx.vercel.app/note/suggest/common_website/",
+            "url": "https://byx.vercel.app/note/suggest/common_website/",
+            "title": "推荐常用网站",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"推荐常用网站\"><a class=\"anchor\" href=\"#推荐常用网站\">#</a> » 推荐常用网站</h1>\n<table>\n<thead>\n<tr>\n<th>网站</th>\n<th>评价</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9vdXRsb29rLmxpdmUuY29tL21haWwvMC9pbmJveA==\">Outlook 邮箱</span></td>\n<td>贼好用的邮箱</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuemhpaHUuY29t\">知乎</span></td>\n<td>不懂就问</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cucnVub29iLmNvbQ==\">菜鸟教程</span></td>\n<td>不会就学</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZGVlcGwuY29tL3RyYW5zbGF0b3I=\">DeepL 翻译</span></td>\n<td>全世界最好的翻译</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly90cmFjZS5tb2U=\">以图搜番</span></td>\n<td>有图想看就搜</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29t\">BiliBili</span></td>\n<td>著名 ACG 弹幕视频站</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYWNmdW4uY24=\">AcFun</span></td>\n<td>旧著名 ACG 弹幕视频站</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYWdlZmFucy5uZXQv\">AGE 动漫</span></td>\n<td>白嫖 ACG 弹幕视频站</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cDovL3d3dy5zaWxpc2lsaS5pbg==\">SiliSili</span></td>\n<td>白嫖 ACG 弹幕视频站</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZWFzeWljb24ubmV0\">图标搜索</span></td>\n<td>大量精美的图标</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "推荐",
+                "网站"
+            ]
+        },
+        {
+            "id": "https://byx.vercel.app/note/suggest/hardware_ladder_diagram/",
+            "url": "https://byx.vercel.app/note/suggest/hardware_ladder_diagram/",
+            "title": "天梯图大全：显卡、CPU、笔记本显卡、笔记本CPU",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"»-电脑：\"><a href=\"#»-电脑：\" class=\"headerlink\" title=\"» 电脑：\"></a>» 电脑：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9ncHUv\">显卡天梯图</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9jcHUv\">CPU天梯图</span></li>\n</ul>\n<h1 id=\"»-笔记本：\"><a href=\"#»-笔记本：\" class=\"headerlink\" title=\"» 笔记本：\"></a>» 笔记本：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9ncHVtLw==\">显卡天梯图</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9jcHVtLw==\">CPU天梯图</span></li>\n</ul>\n",
+            "tags": [
+                "推荐",
+                "Win10",
+                "Android"
+            ]
+        },
+        {
+            "id": "https://byx.vercel.app/note/suggest/uwp_software/",
+            "url": "https://byx.vercel.app/note/suggest/uwp_software/",
+            "title": "推荐 UWP 软件",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"推荐-uwp-软件\"><a class=\"anchor\" href=\"#推荐-uwp-软件\">#</a> » 推荐 UWP 软件</h1>\n<table>\n<thead>\n<tr>\n<th>软件</th>\n<th>评价</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW5ibGdnaDVyNTU4\">To Do</span></td>\n<td>备忘录、任务安排，轻轻松松管理生活</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmZodnFt\">邮件和日历</span></td>\n<td>轻松接受管理邮件、日历与 To Do 联动</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmRqMzZj\">华夏万年历</span></td>\n<td>支持农历、中国节假日的日历软件</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmZodmps\">OneNote</span></td>\n<td>功能强大的免费笔记软件</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW50bTJxYzZxd3M3\">Lively Wallpaper</span></td>\n<td>免费的桌面壁纸软件，支持视频当壁纸</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW5ibGdnaDVrdGxr\">色彩专家</span></td>\n<td>取色、选色极其方便</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "推荐",
+                "Win10"
+            ]
+        },
+        {
+            "id": "https://byx.vercel.app/note/suggest/windows_software/",
+            "url": "https://byx.vercel.app/note/suggest/windows_software/",
+            "title": "推荐 Windows 软件",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"推荐-windows-软件\"><a class=\"anchor\" href=\"#推荐-windows-软件\">#</a> » 推荐 Windows 软件</h1>\n<table>\n<thead>\n<tr>\n<th>软件</th>\n<th>评价</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"\">微软拼音</a></td>\n<td>自带的输入法，智能没广告体积小</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS96aC1jbi9lZGdl\">Edge 浏览器</span></td>\n<td>无广告、跟踪拦截的浏览器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuaHVvcm9uZy5jbg==\">火绒安全</span></td>\n<td>专制流氓的杀毒软件</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tb2ZhbmcucnVhbm1laS5jb20=\">软媒魔方</span></td>\n<td>专业系统调优</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cub25lbm90ZS5jb20vZG93bmxvYWQ=\">OneNote</span></td>\n<td>功能强大的笔记</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9jbi5iYW5kaXNvZnQuY29tL2JhbmRpemlwLw==\">Bandizip</span></td>\n<td>简洁好用的压缩软件</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9jbi5iYW5kaXNvZnQuY29tL2hvbmV5dmlldy8=\">Honeyview</span></td>\n<td>简洁好用的图片浏览器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cucG90cGxheWVyLm9yZw==\">PotPlayer</span></td>\n<td>功能强大的音视频播放器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmFuZGljYW0uY24=\">Bandicam</span></td>\n<td>全能的视频录制工具</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuaW50ZXJuZXRkb3dubG9hZG1hbmFnZXIuY29tL2Rvd25sb2FkLmh0bWw=\">Internet Download Manager（简称 IDM）</span></td>\n<td>吃满网速的下载神器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZnJlZWRvd25sb2FkbWFuYWdlci5vcmcvemgvZG93bmxvYWQuaHRt\">Free Download Manager（简称 FDM）</span></td>\n<td>磁力链资源下载神器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9nZWVrdW5pbnN0YWxsZXIuY29tL2Rvd25sb2Fk\">Geek Uninstaller</span></td>\n<td>卸载软件神器，卸载无残留</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "推荐",
+                "Win10"
+            ]
+        }
+    ]
+}

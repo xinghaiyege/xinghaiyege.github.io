@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "星祤书架 • All posts by \"浏览器\" tag",
+    "description": "游戏更新 & 编程笔记",
+    "home_page_url": "https://byx.vercel.app",
+    "items": [
+        {
+            "id": "https://byx.vercel.app/note/suggest/browser_plugin/",
+            "url": "https://byx.vercel.app/note/suggest/browser_plugin/",
+            "title": "推荐浏览器插件",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"推荐浏览器插件\"><a class=\"anchor\" href=\"#推荐浏览器插件\">#</a> » 推荐浏览器插件</h1>\n<table>\n<thead>\n<tr>\n<th>插件</th>\n<th>评价</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9hZGd1YXJkLSVFNSVCOSVCRiVFNSU5MSU4QSVFNiU4QiVBNiVFNiU4OCVBQSVFNSU5OSVBOC9wZGZma2ZlbGxnaXBtaGtscGRtb2ttY2tra2Zjb3BiaA==\">AdGuard</span></td>\n<td>最好用的广告拦截程序</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTQlQjklQTYlRTclQUQlQkUlRTQlQkUlQTclRTglQkUlQjklRTYlQTAlOEYvbG1qZWZiZ2hrZmVwcG5wb2ZtYmZtaGdvZHBjbGlwYmw=\">书签侧边栏</span></td>\n<td>书签、收藏夹</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTYlOEQlOTUlRTYlOEQlODklRTclQkQlOTElRTklQTElQjUlRTYlODglQUElRTUlOUIlQkUtZmlyZXNob3QlRTclOUElODQvZmNibWlpbWZrbWtra2ZmamxvcGNwZGxnY2xuY25rbm0=\">FireShot</span></td>\n<td>网页截长图</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC90YW1wZXJtb25rZXkvaWlrbWtqbXBhYWRhb2JhaG1sZXBlbG9lbmRuZGZwaGQ=\">Tampermonkey（油猴脚本）</span></td>\n<td>脚本管理器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9waXAtcGljdHVyZS1pbi1waWN0dXJlLS9nb2tkcG5oYWdnb2lvZGRjbG5ubHBqZm5rZGluampjYw==\">Picture in Picture Plus</span></td>\n<td>视频窗口化（小视频）</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9yZWRpcmVjdG9yL2pkaGRqYmNhbG5mYm1mZHBmZ2djb2dhZWdmY2pkY2Zw\">Redirector</span></td>\n<td>链接重定向</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9zdHlsZWJvdC9tam9sYnBmZWRubmJlYmZhcGljYWpwaWZsaW9wbm5haQ==\">Stylebot</span></td>\n<td>修改网页样式</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9pZ2clRTglQjAlQjclRTYlQUQlOEMlRTglQUUlQkYlRTklOTclQUUlRTUlOEElQTklRTYlODklOEIvbWNoaWJsZW9lZmlsZWVtamZnaGZlamFnZ29ucGxtbWc=\">iGuge 魔法上网</span></td>\n<td>可以使用世界上最好的搜索引擎</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTglQjAlQjclRTYlQUQlOEMlRTQlQjglOEElRTclQkQlOTElRTUlOEElQTklRTYlODklOEIvZW9ib29qb2tkbWFtYWhmaWxmbWFtamprY21rbWRkZ2s=\">Ghelper 魔法上网</span></td>\n<td>可以使用世界上最好的搜索引擎</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "推荐",
+                "浏览器"
+            ]
+        }
+    ]
+}
