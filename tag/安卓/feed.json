@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "星祤书架 • All posts by \"安卓\" tag",
+    "description": "游戏更新 & 编程笔记",
+    "home_page_url": "https://byx.vercel.app",
+    "items": [
+        {
+            "id": "https://byx.vercel.app/note/tutorial/android/set_android_dns/",
+            "url": "https://byx.vercel.app/note/tutorial/android/set_android_dns/",
+            "title": "设置DNS（安卓篇）",
+            "date_published": "2020-10-20T12:31:28.000Z",
+            "content_html": "<h1 id=\"设置DNS（安卓篇）\"><a href=\"#设置DNS（安卓篇）\" class=\"headerlink\" title=\"设置DNS（安卓篇）\"></a>设置DNS（安卓篇）</h1><ul>\n<li>进入 <code>设置</code> 。</li>\n<li>点击 <code>WLAN</code> 选项。</li>\n<li>点击 <code>当前连接着的 WiFi</code> 右边的 <code>&gt;</code> 。</li>\n<li><code>IP设置</code> 切换为 <code>静态</code> 。</li>\n<li><code>DNS 1</code> 设置为： <code>223.5.5.5</code> </li>\n<li><code>DNS 2</code> 设置为： <code>223.6.6.6</code> </li>\n<li>设置完成后点击右上角的 <code>√</code> 完成设置。</li>\n</ul>\n",
+            "tags": [
+                "教程",
+                "安卓"
+            ]
+        }
+    ]
+}

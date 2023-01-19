@@ -1,0 +1,1758 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>星祤书架</title>
+        <link>https://byx.vercel.app</link>
+        <description>游戏更新 &amp; 编程笔记</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 07 Dec 2021 14:26:56 +0800</pubDate>
+        <lastBuildDate>Tue, 07 Dec 2021 14:26:56 +0800</lastBuildDate>
+        <category>编程</category>
+        <category>C#</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>网站</category>
+        <category>Win10</category>
+        <category>Android</category>
+        <category>Minecraft（我的世界）</category>
+        <category>基岩版</category>
+        <category>Java版</category>
+        <category>工具</category>
+        <category>教程</category>
+        <category>安卓</category>
+        <category>IDE</category>
+        <category>软件时间轴</category>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/software/timeline/rogue_software/</guid>
+            <title>流氓软件</title>
+            <link>https://byx.vercel.app/note/software/timeline/rogue_software/</link>
+            <category>软件时间轴</category>
+            <pubDate>Tue, 07 Dec 2021 14:26:56 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;流氓软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#流氓软件&#34;&gt;#&lt;/a&gt; 流氓软件&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;厂商&lt;/th&gt;
+&lt;th&gt;软件名&lt;/th&gt;
+&lt;th&gt;软件功能&lt;/th&gt;
+&lt;th&gt;流氓理由&lt;/th&gt;
+&lt;th&gt;代替软件&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 安全卫士&lt;/td&gt;
+&lt;td&gt;安全防护&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;火绒&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 加速浏览器&lt;/td&gt;
+&lt;td&gt;网页浏览器&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 看图王&lt;/td&gt;
+&lt;td&gt;图片浏览器&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Honeyview&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 好压&lt;/td&gt;
+&lt;td&gt;压缩软件&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;BandiZip&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 王牌输入法&lt;/td&gt;
+&lt;td&gt;中文输入法&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;微软拼音&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345PDF 转换器&lt;/td&gt;
+&lt;td&gt;浏览与转换 PDF 文档&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 网址导航桌面版&lt;/td&gt;
+&lt;td&gt;网站聚合&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 影视大全桌面版&lt;/td&gt;
+&lt;td&gt;网站聚合&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 游戏大厅&lt;/td&gt;
+&lt;td&gt;游戏商店&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Steam&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;PDF 阅读器&lt;/td&gt;
+&lt;td&gt;浏览与转换 PDF 文档&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;360&lt;/td&gt;
+&lt;td&gt;360 浏览器&lt;/td&gt;
+&lt;td&gt;网页浏览器&lt;/td&gt;
+&lt;td&gt;广告弹窗&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;360&lt;/td&gt;
+&lt;td&gt;360 游戏大厅&lt;/td&gt;
+&lt;td&gt;游戏商店&lt;/td&gt;
+&lt;td&gt;广告弹窗&lt;/td&gt;
+&lt;td&gt;Steam&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;360&lt;/td&gt;
+&lt;td&gt;小鸟壁纸（360 壁纸）&lt;/td&gt;
+&lt;td&gt;桌面壁纸&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;广告弹窗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;360&lt;/td&gt;
+&lt;td&gt;鲁大师&lt;/td&gt;
+&lt;td&gt;检测电脑性能、驱动安装&lt;/td&gt;
+&lt;td&gt;广告弹窗&lt;/td&gt;
+&lt;td&gt;火绒&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;快压&lt;/td&gt;
+&lt;td&gt;压缩软件&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;广告弹窗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;手机模拟大师&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;广告&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;海螺桌面&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;桌面壁纸&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;极速输入法&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;中文输入法&lt;/td&gt;
+&lt;td&gt;微软拼音&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;讯读 PDF 转换器&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;浏览与转换 PDF 文档&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;4&#34;&gt;香蕉阅读&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;云上压缩&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;压缩软件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;即刻玩游戏盒&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;游戏商店&lt;/td&gt;
+&lt;td&gt;Steam&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;4&#34;&gt;豌豆搜索&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;迷你新闻&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;新闻资讯&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;讯读 PDF 大师&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;浏览与转换 PDF 文档&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;4&#34;&gt;易极数据恢复&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;腾讯&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;WeGame&lt;/td&gt;
+&lt;td&gt;扫描硬盘&lt;/td&gt;
+&lt;td&gt;Steam&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;腾讯&lt;/td&gt;
+&lt;td&gt;搜狗输入法&lt;/td&gt;
+&lt;td&gt;中文输入法&lt;/td&gt;
+&lt;td&gt;广告弹窗&lt;/td&gt;
+&lt;td&gt;微软拼音&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/software/timeline/not_recommended_software/</guid>
+            <title>不推荐软件</title>
+            <link>https://byx.vercel.app/note/software/timeline/not_recommended_software/</link>
+            <category>软件时间轴</category>
+            <pubDate>Sun, 21 Nov 2021 19:07:46 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;云笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#云笔记&#34;&gt;#&lt;/a&gt; 云笔记&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;软件名&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;th&gt;理由&lt;/th&gt;
+&lt;th&gt;评测时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;印象笔记（Evernote）&lt;/td&gt;
+&lt;td&gt;跨平台云笔记本软件、支持 MarkDown&lt;/td&gt;
+&lt;td&gt;操作过于复杂、网络问题&lt;/td&gt;
+&lt;td&gt;2021-11-25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Boost Note&lt;/td&gt;
+&lt;td&gt;跨平台云笔记本软件、支持 MarkDown&lt;/td&gt;
+&lt;td&gt;操作过于复杂&lt;/td&gt;
+&lt;td&gt;2021-11-25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;磁力链下载工具&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#磁力链下载工具&#34;&gt;#&lt;/a&gt; 磁力链下载工具&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;软件名&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;th&gt;理由&lt;/th&gt;
+&lt;th&gt;评测时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;比特精灵&lt;/td&gt;
+&lt;td&gt;下载磁力链、直连&lt;/td&gt;
+&lt;td&gt;下载速度缓慢、停止维护&lt;/td&gt;
+&lt;td&gt;2021-12-14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;局域网数据传输&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#局域网数据传输&#34;&gt;#&lt;/a&gt; 局域网数据传输&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;软件名&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;th&gt;理由&lt;/th&gt;
+&lt;th&gt;评测时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;飞鸽传书&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输、远程控制&lt;/td&gt;
+&lt;td&gt;文件无法传输、停止维护&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;飞 Q&lt;/td&gt;
+&lt;td&gt;Windows 局域网数据传输、远程控制&lt;/td&gt;
+&lt;td&gt;不支持跨平台、停止维护&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;局域网精灵（LAN Genius）&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;操作过于复杂&lt;/td&gt;
+&lt;td&gt;2021-11-25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;快牙&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;数据传输容易中断&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AnyDesk&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输、远程控制&lt;/td&gt;
+&lt;td&gt;操作过于复杂、安装都麻烦&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dukto&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;传输中文文件名乱码&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feem&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;操作过于复杂&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Infinit&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;使用需要登录、已经无法登录、停止维护&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Send Anywhere&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;无法接收文件&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/suggest/browser_plugin/</guid>
+            <title>推荐浏览器插件</title>
+            <link>https://byx.vercel.app/note/suggest/browser_plugin/</link>
+            <category>推荐</category>
+            <category>浏览器</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;推荐浏览器插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#推荐浏览器插件&#34;&gt;#&lt;/a&gt; » 推荐浏览器插件&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;插件&lt;/th&gt;
+&lt;th&gt;评价&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9hZGd1YXJkLSVFNSVCOSVCRiVFNSU5MSU4QSVFNiU4QiVBNiVFNiU4OCVBQSVFNSU5OSVBOC9wZGZma2ZlbGxnaXBtaGtscGRtb2ttY2tra2Zjb3BiaA==&#34;&gt;AdGuard&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;最好用的广告拦截程序&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTQlQjklQTYlRTclQUQlQkUlRTQlQkUlQTclRTglQkUlQjklRTYlQTAlOEYvbG1qZWZiZ2hrZmVwcG5wb2ZtYmZtaGdvZHBjbGlwYmw=&#34;&gt;书签侧边栏&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;书签、收藏夹&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTYlOEQlOTUlRTYlOEQlODklRTclQkQlOTElRTklQTElQjUlRTYlODglQUElRTUlOUIlQkUtZmlyZXNob3QlRTclOUElODQvZmNibWlpbWZrbWtra2ZmamxvcGNwZGxnY2xuY25rbm0=&#34;&gt;FireShot&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;网页截长图&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC90YW1wZXJtb25rZXkvaWlrbWtqbXBhYWRhb2JhaG1sZXBlbG9lbmRuZGZwaGQ=&#34;&gt;Tampermonkey（油猴脚本）&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;脚本管理器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9waXAtcGljdHVyZS1pbi1waWN0dXJlLS9nb2tkcG5oYWdnb2lvZGRjbG5ubHBqZm5rZGluampjYw==&#34;&gt;Picture in Picture Plus&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;视频窗口化（小视频）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9yZWRpcmVjdG9yL2pkaGRqYmNhbG5mYm1mZHBmZ2djb2dhZWdmY2pkY2Zw&#34;&gt;Redirector&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;链接重定向&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9zdHlsZWJvdC9tam9sYnBmZWRubmJlYmZhcGljYWpwaWZsaW9wbm5haQ==&#34;&gt;Stylebot&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;修改网页样式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9pZ2clRTglQjAlQjclRTYlQUQlOEMlRTglQUUlQkYlRTklOTclQUUlRTUlOEElQTklRTYlODklOEIvbWNoaWJsZW9lZmlsZWVtamZnaGZlamFnZ29ucGxtbWc=&#34;&gt;iGuge 魔法上网&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;可以使用世界上最好的搜索引擎&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC8lRTglQjAlQjclRTYlQUQlOEMlRTQlQjglOEElRTclQkQlOTElRTUlOEElQTklRTYlODklOEIvZW9ib29qb2tkbWFtYWhmaWxmbWFtamprY21rbWRkZ2s=&#34;&gt;Ghelper 魔法上网&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;可以使用世界上最好的搜索引擎&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/suggest/common_website/</guid>
+            <title>推荐常用网站</title>
+            <link>https://byx.vercel.app/note/suggest/common_website/</link>
+            <category>推荐</category>
+            <category>网站</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;推荐常用网站&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#推荐常用网站&#34;&gt;#&lt;/a&gt; » 推荐常用网站&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;网站&lt;/th&gt;
+&lt;th&gt;评价&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vdXRsb29rLmxpdmUuY29tL21haWwvMC9pbmJveA==&#34;&gt;Outlook 邮箱&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;贼好用的邮箱&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29t&#34;&gt;知乎&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;不懂就问&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnVub29iLmNvbQ==&#34;&gt;菜鸟教程&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;不会就学&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZGVlcGwuY29tL3RyYW5zbGF0b3I=&#34;&gt;DeepL 翻译&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;全世界最好的翻译&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90cmFjZS5tb2U=&#34;&gt;以图搜番&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;有图想看就搜&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29t&#34;&gt;BiliBili&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;著名 ACG 弹幕视频站&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWNmdW4uY24=&#34;&gt;AcFun&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;旧著名 ACG 弹幕视频站&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWdlZmFucy5uZXQv&#34;&gt;AGE 动漫&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;白嫖 ACG 弹幕视频站&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5zaWxpc2lsaS5pbg==&#34;&gt;SiliSili&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;白嫖 ACG 弹幕视频站&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWFzeWljb24ubmV0&#34;&gt;图标搜索&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;大量精美的图标&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/suggest/hardware_ladder_diagram/</guid>
+            <title>天梯图大全：显卡、CPU、笔记本显卡、笔记本CPU</title>
+            <link>https://byx.vercel.app/note/suggest/hardware_ladder_diagram/</link>
+            <category>推荐</category>
+            <category>Win10</category>
+            <category>Android</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;»-电脑：&#34;&gt;&lt;a href=&#34;#»-电脑：&#34; class=&#34;headerlink&#34; title=&#34;» 电脑：&#34;&gt;&lt;/a&gt;» 电脑：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9ncHUv&#34;&gt;显卡天梯图&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9jcHUv&#34;&gt;CPU天梯图&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-笔记本：&#34;&gt;&lt;a href=&#34;#»-笔记本：&#34; class=&#34;headerlink&#34; title=&#34;» 笔记本：&#34;&gt;&lt;/a&gt;» 笔记本：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9ncHVtLw==&#34;&gt;显卡天梯图&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9jcHVtLw==&#34;&gt;CPU天梯图&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/suggest/uwp_software/</guid>
+            <title>推荐 UWP 软件</title>
+            <link>https://byx.vercel.app/note/suggest/uwp_software/</link>
+            <category>推荐</category>
+            <category>Win10</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;推荐-uwp-软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#推荐-uwp-软件&#34;&gt;#&lt;/a&gt; » 推荐 UWP 软件&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;软件&lt;/th&gt;
+&lt;th&gt;评价&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW5ibGdnaDVyNTU4&#34;&gt;To Do&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;备忘录、任务安排，轻轻松松管理生活&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmZodnFt&#34;&gt;邮件和日历&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;轻松接受管理邮件、日历与 To Do 联动&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmRqMzZj&#34;&gt;华夏万年历&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;支持农历、中国节假日的日历软件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmZodmps&#34;&gt;OneNote&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;功能强大的免费笔记软件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW50bTJxYzZxd3M3&#34;&gt;Lively Wallpaper&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;免费的桌面壁纸软件，支持视频当壁纸&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW5ibGdnaDVrdGxr&#34;&gt;色彩专家&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;取色、选色极其方便&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/suggest/windows_software/</guid>
+            <title>推荐 Windows 软件</title>
+            <link>https://byx.vercel.app/note/suggest/windows_software/</link>
+            <category>推荐</category>
+            <category>Win10</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;推荐-windows-软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#推荐-windows-软件&#34;&gt;#&lt;/a&gt; » 推荐 Windows 软件&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;软件&lt;/th&gt;
+&lt;th&gt;评价&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;微软拼音&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;自带的输入法，智能没广告体积小&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS96aC1jbi9lZGdl&#34;&gt;Edge 浏览器&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;无广告、跟踪拦截的浏览器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaHVvcm9uZy5jbg==&#34;&gt;火绒安全&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;专制流氓的杀毒软件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tb2ZhbmcucnVhbm1laS5jb20=&#34;&gt;软媒魔方&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;专业系统调优&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub25lbm90ZS5jb20vZG93bmxvYWQ=&#34;&gt;OneNote&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;功能强大的笔记&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbi5iYW5kaXNvZnQuY29tL2JhbmRpemlwLw==&#34;&gt;Bandizip&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;简洁好用的压缩软件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbi5iYW5kaXNvZnQuY29tL2hvbmV5dmlldy8=&#34;&gt;Honeyview&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;简洁好用的图片浏览器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucG90cGxheWVyLm9yZw==&#34;&gt;PotPlayer&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;功能强大的音视频播放器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmFuZGljYW0uY24=&#34;&gt;Bandicam&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;全能的视频录制工具&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW50ZXJuZXRkb3dubG9hZG1hbmFnZXIuY29tL2Rvd25sb2FkLmh0bWw=&#34;&gt;Internet Download Manager（简称 IDM）&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;吃满网速的下载神器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZWRvd25sb2FkbWFuYWdlci5vcmcvemgvZG93bmxvYWQuaHRt&#34;&gt;Free Download Manager（简称 FDM）&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;磁力链资源下载神器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZWVrdW5pbnN0YWxsZXIuY29tL2Rvd25sb2Fk&#34;&gt;Geek Uninstaller&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;卸载软件神器，卸载无残留&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/minecraft/bedrock/bedrock_server_config_description/</guid>
+            <title>我的世界 基岩版：官方服务器配置与使用</title>
+            <link>https://byx.vercel.app/note/minecraft/bedrock/bedrock_server_config_description/</link>
+            <category>Minecraft（我的世界）</category>
+            <category>基岩版</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;我的世界-基岩版：官方服务器配置与使用&#34;&gt;&lt;a href=&#34;#我的世界-基岩版：官方服务器配置与使用&#34; class=&#34;headerlink&#34; title=&#34;我的世界 基岩版：官方服务器配置与使用&#34;&gt;&lt;/a&gt;我的世界 基岩版：官方服务器配置与使用&lt;/h1&gt;&lt;h1 id=&#34;»-官方免责声明：&#34;&gt;&lt;a href=&#34;#»-官方免责声明：&#34; class=&#34;headerlink&#34; title=&#34;» 官方免责声明：&#34;&gt;&lt;/a&gt;» 官方免责声明：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;这是 Mojang 尚未完成的服务器版本（预览版）&lt;/li&gt;
+&lt;li&gt;可能有严重的 bug&lt;/li&gt;
+&lt;li&gt;Mojang 随时都可以停止支持它&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+
+&lt;h1 id=&#34;»-平台：&#34;&gt;&lt;a href=&#34;#»-平台：&#34; class=&#34;headerlink&#34; title=&#34;» 平台：&#34;&gt;&lt;/a&gt;» 平台：&lt;/h1&gt;&lt;h4 id=&#34;Linux：&#34;&gt;&lt;a href=&#34;#Linux：&#34; class=&#34;headerlink&#34; title=&#34;Linux：&#34;&gt;&lt;/a&gt;Linux：&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;将压缩文件解压到一个空文件夹中&lt;/li&gt;
+&lt;li&gt;使用以下命令启动服务器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;setsid ./bedrock_server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h4 id=&#34;Windows：&#34;&gt;&lt;a href=&#34;#Windows：&#34; class=&#34;headerlink&#34; title=&#34;Windows：&#34;&gt;&lt;/a&gt;Windows：&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;将压缩文件解压到一个空文件夹中&lt;/li&gt;
+&lt;li&gt;运行 &lt;code&gt;bedrock_server.exe&lt;/code&gt; 文件启动服务器&lt;/li&gt;
+&lt;li&gt;在某些系统上，当您希望使用运行在同一台计算机上的客户端连接到服务器时，服务器正在运行，您将需要去除 Minecraft 客户端 的 UWP 环回限制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;CheckNetIsolation.exe LoopbackExempt –a –p=S-1-15-2-1958404141-86561845-1752920682-3514627264-368642714-62675701-733520436&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;br&gt;
+
+&lt;h1 id=&#34;»-配置文件：&#34;&gt;&lt;a href=&#34;#»-配置文件：&#34; class=&#34;headerlink&#34; title=&#34;» 配置文件：&#34;&gt;&lt;/a&gt;» 配置文件：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;服务器将读取 &lt;code&gt;server.properties&lt;/code&gt; 作为服务器的配置文件&lt;/li&gt;
+&lt;li&gt;其中一些选项仅在创建新世界时读取&lt;/li&gt;
+&lt;li&gt;其他一些选项在每次启动时都会读取&lt;/li&gt;
+&lt;li&gt;该文件应包含一个列表，其中的键和值以等号分隔，每行一个&lt;/li&gt;
+&lt;li&gt;可以使用以下选项。 如果值为括号中的数字，则可以使用该数字代替文本值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;选项&lt;/th&gt;
+&lt;th&gt;可用值&lt;/th&gt;
+&lt;th&gt;默认值&lt;/th&gt;
+&lt;th&gt;生效时间&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;gamemode&lt;/td&gt;
+&lt;td&gt;survival (0)&lt;br&gt;creative (1)&lt;br&gt;adventure (2)&lt;/td&gt;
+&lt;td&gt;survival&lt;/td&gt;
+&lt;td&gt;新玩家加入&lt;/td&gt;
+&lt;td&gt;游戏模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;difficulty&lt;/td&gt;
+&lt;td&gt;peaceful (0)&lt;br&gt;easy (1)&lt;br&gt;normal (2)&lt;br&gt;hard (3)&lt;/td&gt;
+&lt;td&gt;easy&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;游戏难度&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;level-type&lt;/td&gt;
+&lt;td&gt;FLAT&lt;br&gt;LEGACY&lt;br&gt;DEFAULT&lt;/td&gt;
+&lt;td&gt;DEFAULT&lt;/td&gt;
+&lt;td&gt;生成世界时&lt;/td&gt;
+&lt;td&gt;生成世界的类型，建议不修改&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;server-name&lt;/td&gt;
+&lt;td&gt;任何字符&lt;/td&gt;
+&lt;td&gt;Dedicated Server&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;游戏内服务器列表显示的名称&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;max-players&lt;/td&gt;
+&lt;td&gt;任何正整数&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;服务器玩家上限&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;server-port&lt;/td&gt;
+&lt;td&gt;0-65535&lt;/td&gt;
+&lt;td&gt;19132&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;ipv4 端口号&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;server-portv6&lt;/td&gt;
+&lt;td&gt;0-65535&lt;/td&gt;
+&lt;td&gt;19133&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;ipv6 端口号&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;level-name&lt;/td&gt;
+&lt;td&gt;任何字符&lt;/td&gt;
+&lt;td&gt;level&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/worlds&lt;/code&gt; 文件夹中的地图文件夹名称&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;level-seed&lt;/td&gt;
+&lt;td&gt;任何字符&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;生成世界时&lt;/td&gt;
+&lt;td&gt;如果为空将在生成时使用随机种子&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;online-mode&lt;/td&gt;
+&lt;td&gt;true&lt;br&gt;false&lt;/td&gt;
+&lt;td&gt;true&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;正版验证（登录Xbox账号）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;white-list&lt;/td&gt;
+&lt;td&gt;true&lt;br&gt;false&lt;/td&gt;
+&lt;td&gt;false&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;开启白名单&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;allow-cheats&lt;/td&gt;
+&lt;td&gt;true&lt;br&gt;false&lt;/td&gt;
+&lt;td&gt;false&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;开启作弊（只限管理员）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;view-distance&lt;/td&gt;
+&lt;td&gt;任何正整数&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;玩家最大视距&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;player-idle-timeout&lt;/td&gt;
+&lt;td&gt;任何正整数&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;挂机N秒后踢出服务器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;max-threads&lt;/td&gt;
+&lt;td&gt;任何正整数&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;服务器最大线程数&lt;br&gt;设置为0自动调整（不建议）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tick-distance&lt;/td&gt;
+&lt;td&gt;4-12的整数&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;玩家周围加载区块的范围&lt;br&gt;值越大越影响服务器性能&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;default-player-permission-level&lt;/td&gt;
+&lt;td&gt;visitor&lt;br&gt;member&lt;br&gt;operator&lt;/td&gt;
+&lt;td&gt;member&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;新加入玩家的权限&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;texturepack-required&lt;/td&gt;
+&lt;td&gt;true&lt;br&gt;false&lt;/td&gt;
+&lt;td&gt;false&lt;/td&gt;
+&lt;td&gt;始终&lt;/td&gt;
+&lt;td&gt;强制使用服务器的材质包&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br&gt;
+
+&lt;h1 id=&#34;»-文件夹：&#34;&gt;&lt;a href=&#34;#»-文件夹：&#34; class=&#34;headerlink&#34; title=&#34;» 文件夹：&#34;&gt;&lt;/a&gt;» 文件夹：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;解压后，您将看到一些文件夹和二进制可执行文件&lt;/li&gt;
+&lt;li&gt;第一次启动服务器时，将创建一堆新（空）文件夹&lt;/li&gt;
+&lt;li&gt;您应该关注的文件夹如下：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;文件夹&lt;/th&gt;
+&lt;th&gt;用途&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;behavior_packs&lt;/td&gt;
+&lt;td&gt;这是可以安装新行为包的地方&lt;br&gt;目前没有实装，可以安装在地图里&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;resource_packs&lt;/td&gt;
+&lt;td&gt;这是可以安装新资源包的地方&lt;br&gt;目前没有也没有实装，也可以安装在地图里&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;worlds&lt;/td&gt;
+&lt;td&gt;如果该文件夹尚不存在，则将在启动时创建该文件夹&lt;br&gt;创建的每个世界都将有一个根据其命名的文件夹&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br&gt;
+
+&lt;h1 id=&#34;»-白名单：&#34;&gt;&lt;a href=&#34;#»-白名单：&#34; class=&#34;headerlink&#34; title=&#34;» 白名单：&#34;&gt;&lt;/a&gt;» 白名单：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;如果在 &lt;code&gt;server.properties&lt;/code&gt; 将 &lt;code&gt;white-list&lt;/code&gt; 设置为 &lt;code&gt;true&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;服务器将只允许 &lt;code&gt;whitelist.json&lt;/code&gt; 列表中的玩家进入服务器&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;允许玩家进入服务器必须知道玩家的 &lt;code&gt;游戏昵称&lt;/code&gt;（即登录 Xbox 后显示的名字）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加一名玩家进入白名单只需要执行命令 &lt;code&gt;whitelist add &amp;lt;游戏昵称&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;从白名单中删除一名玩家只需要执行命令 &lt;code&gt;whitelist remove &amp;lt;游戏昵称&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;每次修改白名单后都必须执行命令 &lt;code&gt;whitelist reload&lt;/code&gt; 才会刷新白名单&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;whitelist.json&lt;/code&gt; 中参数如下&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;键&lt;/th&gt;
+&lt;th&gt;数据类型&lt;/th&gt;
+&lt;th&gt;值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;name&lt;/td&gt;
+&lt;td&gt;字符串&lt;/td&gt;
+&lt;td&gt;玩家的游戏昵称&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;xuid&lt;/td&gt;
+&lt;td&gt;字符串&lt;/td&gt;
+&lt;td&gt;可选参数，一般填 &lt;code&gt;name&lt;/code&gt; 的值这个就不用填了，该玩家登陆后会自动补充&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ignoresPlayerLimit&lt;/td&gt;
+&lt;td&gt;布尔值&lt;/td&gt;
+&lt;td&gt;true：玩家在超过服务器人数上限时可以加入服务器&lt;br&gt;false：玩家不能在超过服务器人数上限时加入服务器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;whitelist.json&lt;/code&gt; 文件示例：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;ignoresPlayerLimit&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;MyPlayer&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;ignoresPlayerLimit&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;AnotherPlayer&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;xuid&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;274817248&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;br&gt;
+
+&lt;h1 id=&#34;»-权限组：&#34;&gt;&lt;a href=&#34;#»-权限组：&#34; class=&#34;headerlink&#34; title=&#34;» 权限组：&#34;&gt;&lt;/a&gt;» 权限组：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;可以通过 &lt;code&gt;permissions.json&lt;/code&gt; 给特定玩家分配特定的权限&lt;/li&gt;
+&lt;li&gt;分配权限的玩家必须具有是登录Xbox账号进入服务器的玩家（因为需要他们的 xuid）&lt;/li&gt;
+&lt;li&gt;可以使用 &lt;code&gt;permissions list&lt;/code&gt; 命令罗列出所有拥有特殊权限的玩家&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;permissions.json&lt;/code&gt; 文件示例：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;permission&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;operator&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;xuid&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;451298348&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;permission&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;member&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;xuid&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;52819329&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;permission&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;visitor&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;xuid&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;234114123&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Commands&lt;br&gt;You can issue commands to the server by typing in the console. The following commands are available. &amp;lt; &amp;gt; means a parameter is required, [ ] means it’s optional and | denotes different allowed values. Strings can be enclosed in double quotes, “, if they contain spaces.&lt;/p&gt;
+&lt;p&gt;Command syntax    Description&lt;br&gt;kick &lt;player name or xuid&gt; &lt;reason&gt;    Immediately kicks a player. The reason will be shown on the kicked players screen.&lt;br&gt;stop    Shuts down the server gracefully.&lt;br&gt;save &amp;lt;hold | resume | query&amp;gt;    Used to make atomic backups while the server is running. See the backup section for more information.&lt;br&gt;whitelist &amp;lt;on | off | list | reload&amp;gt;&lt;br&gt;on and off turns the whitelist on and off. Note that this does not change the value in the server.properties file!&lt;/p&gt;
+&lt;p&gt;list prints the current whitelist used by the server&lt;/p&gt;
+&lt;p&gt;reload makes the server reload the whitelist from the file.&lt;/p&gt;
+&lt;p&gt;See the Whitelist section for more information.&lt;/p&gt;
+&lt;p&gt;whitelist &amp;lt;add | remove&amp;gt; &lt;name&gt;    Adds or removes a player from the whitelist file. The name parameter should be the Xbox Gamertag of the player you want to add or remove. You don’t need to specify a XUID here, it will be resolved the first time the player connects.&lt;/p&gt;
+&lt;p&gt;See the Whitelist section for more information.&lt;br&gt;permissions &amp;lt;list | reload&amp;gt;&lt;br&gt;list prints the current used operator list.&lt;/p&gt;
+&lt;p&gt;reload makes the server reload the operator list from the ops file.&lt;/p&gt;
+&lt;p&gt;See the Permissions section for more information.&lt;/p&gt;
+&lt;p&gt;op &lt;player&gt;&lt;br&gt;Promote a player to operator. This will also persist in permissions.json if the player is authenticated to XBL. If permissions.json is missing it will be created. If the player is not connected to XBL, the player is promoted for the current server session and it will not be persisted on disk. Defualt server permission level will be assigned to the player after a server restart.&lt;/p&gt;
+&lt;p&gt;deop &lt;player&gt;&lt;br&gt;Demote a player to member. This will also persist in permissions.json if the player is authenticated to XBL. If permissions.json is missing it will be created.&lt;/p&gt;
+&lt;p&gt;changesetting &lt;setting&gt; &lt;value&gt;    Changes a server setting without having to restart the server. Currently only two settings are supported to be changed, allow-cheats (true or false) and difficulty (0, peaceful, 1, easy, 2, normal, 3 or hard). They do not modify the value that’s specified in server.properties.&lt;br&gt;Backups&lt;br&gt;The server supports taking backups of the world files while the server is running. It’s not particularly friendly for taking manual backups, but works better when automated. The backup (from the servers perspective) consists of three commands.&lt;/p&gt;
+&lt;p&gt;Command    Description&lt;br&gt;save hold    This will ask the server to prepare for a backup. It’s asynchronous and will return immediately.&lt;br&gt;save query    After calling save hold you should call this command repeatedly to see if the preparation has finished. When it returns a success it will return a file list (with lengths for each file) of the files you need to copy. The server will not pause while this is happening, so some files can be modified while the backup is taking place. As long as you only copy the files in the given file list and truncate the copied files to the specified lengths, then the backup should be valid.&lt;br&gt;save resume    When you’re finished with copying the files you should call this to tell the server that it’s okay to remove old files again.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/minecraft/bedrock/character/</guid>
+            <title>我的世界 基岩版：字符集</title>
+            <link>https://byx.vercel.app/note/minecraft/bedrock/character/</link>
+            <category>Minecraft（我的世界）</category>
+            <category>基岩版</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;我的世界-基岩版：字符集&#34;&gt;&lt;a href=&#34;#我的世界-基岩版：字符集&#34; class=&#34;headerlink&#34; title=&#34;我的世界 基岩版：字符集&#34;&gt;&lt;/a&gt;我的世界 基岩版：字符集&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;转载自 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYXZleW91d2FudHRvLmdpdGh1Yi5pby9tY3BlY2hhci8=&#34;&gt;https://haveyouwantto.github.io/mcpechar/&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;»-使用方法：&#34;&gt;&lt;a href=&#34;#»-使用方法：&#34; class=&#34;headerlink&#34; title=&#34;» 使用方法：&#34;&gt;&lt;/a&gt;» 使用方法：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;复制冒号前面的内容，粘贴到 Minecraft 基岩版的聊天栏里&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-字符集：&#34;&gt;&lt;a href=&#34;#»-字符集：&#34; class=&#34;headerlink&#34; title=&#34;» 字符集：&#34;&gt;&lt;/a&gt;» 字符集：&lt;/h1&gt;&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe1.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57344 /&lt;br&gt; : 57345 /&lt;br&gt; : 57346 /&lt;br&gt; : 57347 /&lt;br&gt; : 57348 /&lt;br&gt; : 57349 /&lt;br&gt; : 57350 /&lt;br&gt; : 57351 /&lt;br&gt; : 57352 / &lt;br&gt; : 57353 / &lt;br&gt; : 57354 / &lt;br&gt; : 57355 / &lt;br&gt; : 57356 / &lt;br&gt; : 57357 / &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe2.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57358 / &lt;br&gt; : 57359 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe3.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57376 / &lt;br&gt; : 57377 / &lt;br&gt; : 57378 / &lt;br&gt; : 57379 / &lt;br&gt; : 57380 / &lt;br&gt; : 57381 / &lt;br&gt; : 57382 / &lt;br&gt; : 57383 / &lt;br&gt; : 57384 / &lt;br&gt; : 57385 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe4.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57386 / &lt;br&gt; : 57387 / &lt;br&gt; : 57388 / &lt;br&gt; : 57389 /&lt;br&gt; : 57390 /&lt;br&gt; : 57391 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe5.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57408 /&lt;br&gt; : 57409 / &lt;br&gt; : 57410 / &lt;br&gt; : 57411 /&lt;br&gt; : 57412 /&lt;br&gt; : 57413 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe6.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57414 / &lt;br&gt; : 57415 / &lt;br&gt; : 57416 / &lt;br&gt; : 57417 / &lt;br&gt; : 57418 / &lt;br&gt; : 57419 / &lt;br&gt; : 57420 / &lt;br&gt; : 57421 / &lt;br&gt; : 57422 / &lt;br&gt; : 57423 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe7.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57440 / &lt;br&gt; : 57441 / &lt;br&gt; : 57442 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe8.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57472 / &lt;br&gt; : 57473 / &lt;br&gt; : 57474 / &lt;br&gt; : 57475 / &lt;br&gt; : 57476 / &lt;br&gt; : 57477 / &lt;br&gt; : 57478 / &lt;br&gt; : 57479 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe9.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57504 / &lt;br&gt; : 57505 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe10.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57536 /&lt;br&gt; : 57537 / &lt;br&gt; : 57538 / &lt;br&gt; : 57539 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe11.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57540 /&lt;br&gt; : 57541 / &lt;br&gt; : 57542 / &lt;br&gt; : 57543 / &lt;br&gt; : 57544 / &lt;br&gt; : 57545 / &lt;br&gt; : 57546 / &lt;br&gt; : 57547 / &lt;br&gt; : 57548 / &lt;br&gt; : 57549 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe12.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57568 / &lt;br&gt; : 57569 / &lt;br&gt; : 57570 / &lt;br&gt; : 57571 / &lt;br&gt; : 57572 / &lt;br&gt; : 57573 / &lt;br&gt; : 57574 / &lt;br&gt; : 57575 / &lt;br&gt; : 57576 / &lt;br&gt; : 57577 / &lt;br&gt; : 57578 /&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://haveyouwantto.github.io/mcpechar/mcpe13.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; : 57600 / &lt;br&gt; : 57601 / &lt;br&gt; : 57602 /&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/minecraft/bedrock/fun_map_seed/</guid>
+            <title>我的世界 基岩版：好用的地图种子</title>
+            <link>https://byx.vercel.app/note/minecraft/bedrock/fun_map_seed/</link>
+            <category>Minecraft（我的世界）</category>
+            <category>基岩版</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;我的世界-基岩版：好用的地图种子&#34;&gt;&lt;a href=&#34;#我的世界-基岩版：好用的地图种子&#34; class=&#34;headerlink&#34; title=&#34;我的世界 基岩版：好用的地图种子&#34;&gt;&lt;/a&gt;我的世界 基岩版：好用的地图种子&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;转载请直接备注出处&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;生成时游戏版本&lt;/th&gt;
+&lt;th&gt;种子&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;th&gt;临近村庄个数&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;1.13&lt;/td&gt;
+&lt;td&gt;655594614&lt;/td&gt;
+&lt;td&gt;沼泽、平原、冰岛、高山&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.13&lt;/td&gt;
+&lt;td&gt;-1868127751&lt;/td&gt;
+&lt;td&gt;蘑菇岛、海底神殿、冰原&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.12&lt;/td&gt;
+&lt;td&gt;12623202316&lt;/td&gt;
+&lt;td&gt;海底神殿&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.12&lt;/td&gt;
+&lt;td&gt;1323151630&lt;/td&gt;
+&lt;td&gt;针叶林&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.12&lt;/td&gt;
+&lt;td&gt;48893107&lt;/td&gt;
+&lt;td&gt;平原、高山&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.11&lt;/td&gt;
+&lt;td&gt;-310069616&lt;/td&gt;
+&lt;td&gt;沙漠神殿、林地府邸&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.11&lt;/td&gt;
+&lt;td&gt;-464572949&lt;/td&gt;
+&lt;td&gt;海边、冰刺之地&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.11&lt;/td&gt;
+&lt;td&gt;-573535435&lt;/td&gt;
+&lt;td&gt;海底神殿、海龟&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.11&lt;/td&gt;
+&lt;td&gt;-1912595098&lt;/td&gt;
+&lt;td&gt;依山傍水、沼泽地&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.11&lt;/td&gt;
+&lt;td&gt;697200097&lt;/td&gt;
+&lt;td&gt;冰刺之地&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.11&lt;/td&gt;
+&lt;td&gt;1535059495&lt;/td&gt;
+&lt;td&gt;平原&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.11&lt;/td&gt;
+&lt;td&gt;162872524&lt;/td&gt;
+&lt;td&gt;沙漠神殿&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.9&lt;/td&gt;
+&lt;td&gt;-310069616&lt;/td&gt;
+&lt;td&gt;沙漠神殿、林地府邸&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/minecraft/bedrock/texture_package_description/</guid>
+            <title>我的世界 基岩版：材质包中的文件说明</title>
+            <link>https://byx.vercel.app/note/minecraft/bedrock/texture_package_description/</link>
+            <category>Minecraft（我的世界）</category>
+            <category>基岩版</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;我的世界-基岩版：材质包中的文件说明&#34;&gt;&lt;a href=&#34;#我的世界-基岩版：材质包中的文件说明&#34; class=&#34;headerlink&#34; title=&#34;我的世界 基岩版：材质包中的文件说明&#34;&gt;&lt;/a&gt;我的世界 基岩版：材质包中的文件说明&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;导言：本文原创，转载请备注&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;文件 / 文件夹&lt;/th&gt;
+&lt;th&gt;子文件 / 子文件夹&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;textures&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;文件夹：存放材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;blocks&lt;/td&gt;
+&lt;td&gt;文件夹：方块材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;entity&lt;/td&gt;
+&lt;td&gt;文件夹：实体材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;environment&lt;/td&gt;
+&lt;td&gt;文件夹：自然环境材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;gui&lt;/td&gt;
+&lt;td&gt;文件夹：GUI界面材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;items&lt;/td&gt;
+&lt;td&gt;文件夹：物品材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;map&lt;/td&gt;
+&lt;td&gt;文件夹：地图材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;models&lt;/td&gt;
+&lt;td&gt;文件夹：装备模型材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;painting&lt;/td&gt;
+&lt;td&gt;文件夹：画材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;particle&lt;/td&gt;
+&lt;td&gt;文件夹：粒子特效材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;ui&lt;/td&gt;
+&lt;td&gt;文件夹：未分类的UI材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;wallpaper&lt;/td&gt;
+&lt;td&gt;文件夹：游戏界面材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;flame_atlas.png&lt;/td&gt;
+&lt;td&gt;火焰燃烧材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;forcefield_atlas.png&lt;/td&gt;
+&lt;td&gt;力场材质&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ui&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;文件夹：UI 及其说明文件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;manifest.json&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;说明 信息文件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pack_icon.png&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;材质包 图标&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/minecraft/java/common_modules/</guid>
+            <title>我的世界 Java版：常见模组</title>
+            <link>https://byx.vercel.app/note/minecraft/java/common_modules/</link>
+            <category>Minecraft（我的世界）</category>
+            <category>Java版</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;我的世界-Java版：常见模组&#34;&gt;&lt;a href=&#34;#我的世界-Java版：常见模组&#34; class=&#34;headerlink&#34; title=&#34;我的世界 Java版：常见模组&#34;&gt;&lt;/a&gt;我的世界 Java版：常见模组&lt;/h1&gt;&lt;h1 id=&#34;官网：&#34;&gt;&lt;a href=&#34;#官网：&#34; class=&#34;headerlink&#34; title=&#34;官网：&#34;&gt;&lt;/a&gt;官网：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Curse：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHM=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;MC模组百科：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWNtb2QuY24v&#34;&gt;https://www.mcmod.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;内存优化：&#34;&gt;&lt;a href=&#34;#内存优化：&#34; class=&#34;headerlink&#34; title=&#34;内存优化：&#34;&gt;&lt;/a&gt;内存优化：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;TexFix：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdGV4Zml4&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/texfix&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;FoamFix：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvZm9hbWZpeC1mb3ItbWluZWNyYWZ0&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;推荐必装：&#34;&gt;&lt;a href=&#34;#推荐必装：&#34; class=&#34;headerlink&#34; title=&#34;推荐必装：&#34;&gt;&lt;/a&gt;推荐必装：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;高清修复：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5vcHRpZmluZS5uZXQvZG93bmxvYWRz&#34;&gt;http://www.optifine.net/downloads&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;万用皮肤补丁：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5tY2Jicy5uZXQvdGhyZWFkLTI2OTgwNy0xLTEuaHRtbA==&#34;&gt;http://www.mcbbs.net/thread-269807-1-1.html&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;物品提示：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvaHd5bGE=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/hwyla&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;扩展：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvd2FpbGEtaGFydmVzdGFiaWxpdHk=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/waila-harvestability&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;不再合成冲突：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvc3RpbW1lZGNvdy1ub21vcmVyZWNpcGVjb25mbGljdA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;简洁血条：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbmVhdA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/neat&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;懒人辅助：&#34;&gt;&lt;a href=&#34;#懒人辅助：&#34; class=&#34;headerlink&#34; title=&#34;懒人辅助：&#34;&gt;&lt;/a&gt;懒人辅助：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;R键整理：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvaW52ZW50b3J5LXR3ZWFrcw==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;一键砍树：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdHJlZS1jaG9wcGVy&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/tree-chopper&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;自动钓鱼：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWluZWNyYWZ0Zm9ydW0ubmV0L2ZvcnVtcy9tYXBwaW5nLWFuZC1tb2RkaW5nLWphdmEtZWRpdGlvbi9taW5lY3JhZnQtbW9kcy8yNTMwNDA3LWF1dG9maXNoLWZvcmdlLW1vZC1mb3ItbWluZWNyYWZ0LTEtMTItMS0xMS0xLTEwLTE=&#34;&gt;https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2530407-autofish-forge-mod-for-minecraft-1-12-1-11-1-10-1&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;环境增强：&#34;&gt;&lt;a href=&#34;#环境增强：&#34; class=&#34;headerlink&#34; title=&#34;环境增强：&#34;&gt;&lt;/a&gt;环境增强：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;动态环境：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvZHluYW1pYy1zdXJyb3VuZGluZ3M=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;前置：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvb3JlbGli&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/orelib&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;音效过滤：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvc291bmQtZmlsdGVycw==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/sound-filters&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;无缝连接材质：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvY3Rt&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/ctm&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;显示食物饱食度：&#34;&gt;&lt;a href=&#34;#显示食物饱食度：&#34; class=&#34;headerlink&#34; title=&#34;显示食物饱食度：&#34;&gt;&lt;/a&gt;显示食物饱食度：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;苹果核（苹果皮前置）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYXBwbGVjb3Jl&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/applecore&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;苹果皮（1.10.2+ 显示食物饱食度）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYXBwbGVza2lu&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/appleskin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;物品管理器&#34;&gt;&lt;a href=&#34;#物品管理器&#34; class=&#34;headerlink&#34; title=&#34;物品管理器&#34;&gt;&lt;/a&gt;物品管理器&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;JEI物品管理器（1.12+）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvamVp&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/jei&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;NEI物品管理器（1.8+）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbm90LWVub3VnaC1pdGVtcy0xLTg=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;NEI物品管理器（1.8-）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbm90ZW5vdWdoaXRlbXM=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/notenoughitems&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;地图&#34;&gt;&lt;a href=&#34;#地图&#34; class=&#34;headerlink&#34; title=&#34;地图&#34;&gt;&lt;/a&gt;地图&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;旅行者地图（Curse）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvam91cm5leW1hcA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/journeymap&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;旅行者地图（官网）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2pvdXJuZXltYXAuaW5mby9Eb3dubG9hZA==&#34;&gt;http://journeymap.info/Download&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;体素地图：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdm94ZWxtYXA=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/voxelmap&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;丰富的生物群系&#34;&gt;&lt;a href=&#34;#丰富的生物群系&#34; class=&#34;headerlink&#34; title=&#34;丰富的生物群系&#34;&gt;&lt;/a&gt;丰富的生物群系&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;超多生物群系：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYmlvbWVzLW8tcGxlbnR5&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;农场物语：&#34;&gt;&lt;a href=&#34;#农场物语：&#34; class=&#34;headerlink&#34; title=&#34;农场物语：&#34;&gt;&lt;/a&gt;农场物语：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;潘马斯农场：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvcGFtcy1oYXJ2ZXN0Y3JhZnQ=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;JEI扩展：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvanVzdC1lbm91Z2gtaGFydmVzdGNyYWZ0&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;枫树（日式）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3J1bS5taW5lY3JhZnR1c2VyLmpwL3ZpZXd0b3BpYy5waHA/dD02OTg0&#34;&gt;https://forum.minecraftuser.jp/viewtopic.php?t=6984&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;怪物的斗争：&#34;&gt;&lt;a href=&#34;#怪物的斗争：&#34; class=&#34;headerlink&#34; title=&#34;怪物的斗争：&#34;&gt;&lt;/a&gt;怪物的斗争：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;暮色森林：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdGhlLXR3aWxpZ2h0LWZvcmVzdA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;冰与火之歌：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvaWNlLWFuZC1maXJlLWRyYWdvbnM=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;盖亚魔典：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvZ3JpbW9pcmUtb2YtZ2FpYQ==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Mowzie的怪物：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbW93emllcy1tb2Jz&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;生物多样化：&#34;&gt;&lt;a href=&#34;#生物多样化：&#34; class=&#34;headerlink&#34; title=&#34;生物多样化：&#34;&gt;&lt;/a&gt;生物多样化：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;更多生物（MoCreatures）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubW9jcmVhdHVyZXMub3JnL2Rvd25sb2Fkcw==&#34;&gt;https://www.mocreatures.org/downloads&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;更真实的动物：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYW5pbWFuaWE=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/animania&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;仓鼠：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvbW9kY2h1X2hhbXN0ZXJ1bm9mZmljaWFs&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/modchu_hamsterunofficial&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;猫（Nyanko）/柴犬：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3J1bS5taW5lY3JhZnR1c2VyLmpwL3ZpZXd0b3BpYy5waHA/dD0yNDg3Mw==&#34;&gt;https://forum.minecraftuser.jp/viewtopic.php?t=24873&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;科技与魔法&#34;&gt;&lt;a href=&#34;#科技与魔法&#34; class=&#34;headerlink&#34; title=&#34;科技与魔法&#34;&gt;&lt;/a&gt;科技与魔法&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;装饰品：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYmF1Ymxlcw==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/baubles&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;神秘时代（前置：装饰品）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdGhhdW1jcmFmdA==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/thaumcraft&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;植物魔法（前置：装饰品）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvYm90YW5pYQ==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/botania&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;装备扩展：&#34;&gt;&lt;a href=&#34;#装备扩展：&#34; class=&#34;headerlink&#34; title=&#34;装备扩展：&#34;&gt;&lt;/a&gt;装备扩展：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;云靴：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvY2xvdWQtYm9vdHMtbW9k&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/cloud-boots-mod&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;可穿戴背包：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvd2VhcmFibGUtYmFja3BhY2tz&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/wearable-backpacks&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;家具装饰：&#34;&gt;&lt;a href=&#34;#家具装饰：&#34; class=&#34;headerlink&#34; title=&#34;家具装饰：&#34;&gt;&lt;/a&gt;家具装饰：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;家具（Furniture）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcmNyYXlmaXNoLmNvbS9tb2RzP2lkPWNmbSNkb3dubG9hZHM=&#34;&gt;https://mrcrayfish.com/mods?id=cfm#downloads&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;装饰和道具2：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvZGVjb2NyYWZ0Mg==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/decocraft2&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;可放置物品（3D模组）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvcGxhY2VhYmxlLWl0ZW1z&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/placeable-items&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;在线相框：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvb25saW5lcGljdHVyZWZyYW1l&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/onlinepictureframe&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;凿子和组件&#34;&gt;&lt;a href=&#34;#凿子和组件&#34; class=&#34;headerlink&#34; title=&#34;凿子和组件&#34;&gt;&lt;/a&gt;凿子和组件&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvY2hpc2Vscy1iaXRz&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/chisels-bits&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;匠魂&#34;&gt;&lt;a href=&#34;#匠魂&#34; class=&#34;headerlink&#34; title=&#34;匠魂&#34;&gt;&lt;/a&gt;匠魂&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvdGlua2Vycy1jb25zdHJ1Y3Q=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/tinkers-construct&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;铁箱子&#34;&gt;&lt;a href=&#34;#铁箱子&#34; class=&#34;headerlink&#34; title=&#34;铁箱子&#34;&gt;&lt;/a&gt;铁箱子&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvaXJvbi1jaGVzdHM=&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/iron-chests&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;JER物品视图查询&#34;&gt;&lt;a href=&#34;#JER物品视图查询&#34; class=&#34;headerlink&#34; title=&#34;JER物品视图查询&#34;&gt;&lt;/a&gt;JER物品视图查询&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvanVzdC1lbm91Z2gtcmVzb3VyY2VzLWplcg==&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;竹（和风）&#34;&gt;&lt;a href=&#34;#竹（和风）&#34; class=&#34;headerlink&#34; title=&#34;竹（和风）&#34;&gt;&lt;/a&gt;竹（和风）&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3J1bS5jaXZhLmpwL3ZpZXd0b3BpYy5waHA/Zj0zJmFtcDt0PTI3OQ==&#34;&gt;https://forum.civa.jp/viewtopic.php?f=3&amp;amp;t=279&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/tools/web/webmasters/</guid>
+            <title>网站管理员工具</title>
+            <link>https://byx.vercel.app/note/tools/web/webmasters/</link>
+            <category>网站</category>
+            <category>工具</category>
+            <pubDate>Sun, 28 Mar 2021 08:28:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;网站管理员工具&#34;&gt;&lt;a href=&#34;#网站管理员工具&#34; class=&#34;headerlink&#34; title=&#34;网站管理员工具&#34;&gt;&lt;/a&gt;网站管理员工具&lt;/h1&gt;&lt;h1 id=&#34;»-快照更新：&#34;&gt;&lt;a href=&#34;#»-快照更新：&#34; class=&#34;headerlink&#34; title=&#34;» 快照更新：&#34;&gt;&lt;/a&gt;» 快照更新：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=&#34;&gt;谷歌搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=&#34;&gt;今日头条&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTI=&#34;&gt;搜狗搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2luZm8uc28uMzYwLmNuL2NhY2hlX3JlbW92ZS5odG1s&#34;&gt;360搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3RvdXN1LmJhaWR1LmNvbS93ZWJtYXN0ZXIvYWRk&#34;&gt;百度搜索&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-提交入口：&#34;&gt;&lt;a href=&#34;#»-提交入口：&#34; class=&#34;headerlink&#34; title=&#34;» 提交入口：&#34;&gt;&lt;/a&gt;» 提交入口：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=&#34;&gt;谷歌搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=&#34;&gt;今日头条&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmluZy5jb20vdG9vbGJveC93ZWJtYXN0ZXI=&#34;&gt;必应搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTE=&#34;&gt;搜狗搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3poYW56aGFuZy5zby5jb20v&#34;&gt;360搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aXl1YW4uYmFpZHUuY29tL2xpbmtzdWJtaXQvdXJs&#34;&gt;百度搜索&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/tutorial/android/set_android_dns/</guid>
+            <title>设置DNS（安卓篇）</title>
+            <link>https://byx.vercel.app/note/tutorial/android/set_android_dns/</link>
+            <category>教程</category>
+            <category>安卓</category>
+            <pubDate>Tue, 20 Oct 2020 20:31:28 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;设置DNS（安卓篇）&#34;&gt;&lt;a href=&#34;#设置DNS（安卓篇）&#34; class=&#34;headerlink&#34; title=&#34;设置DNS（安卓篇）&#34;&gt;&lt;/a&gt;设置DNS（安卓篇）&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;进入 &lt;code&gt;设置&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;WLAN&lt;/code&gt; 选项。&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;当前连接着的 WiFi&lt;/code&gt; 右边的 &lt;code&gt;&amp;gt;&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;IP设置&lt;/code&gt; 切换为 &lt;code&gt;静态&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DNS 1&lt;/code&gt; 设置为： &lt;code&gt;223.5.5.5&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DNS 2&lt;/code&gt; 设置为： &lt;code&gt;223.6.6.6&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;设置完成后点击右上角的 &lt;code&gt;√&lt;/code&gt; 完成设置。&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/tutorial/windows/download_win10/</guid>
+            <title>下载 Windows 10 系统</title>
+            <link>https://byx.vercel.app/note/tutorial/windows/download_win10/</link>
+            <category>Win10</category>
+            <category>教程</category>
+            <pubDate>Tue, 20 Oct 2020 20:31:24 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;下载-Windows-10-系统&#34;&gt;&lt;a href=&#34;#下载-Windows-10-系统&#34; class=&#34;headerlink&#34; title=&#34;下载 Windows 10 系统&#34;&gt;&lt;/a&gt;下载 Windows 10 系统&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;安装前，请确保 C 盘（系统盘）有 20 G 以上的存储空间。&lt;br&gt;下载前，请核对操作系统的位数。&lt;br&gt;下载前，请确保电脑中有 ED2K 下载软件（例如：迅雷）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;»-LTSC-版：&#34;&gt;&lt;a href=&#34;#»-LTSC-版：&#34; class=&#34;headerlink&#34; title=&#34;» LTSC 版：&#34;&gt;&lt;/a&gt;» LTSC 版：&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;首推理由：系统占用存储少、内存占用少、CPU占用少。&lt;br&gt;无 Win10 应用商店、无微软小娜、无 UWP 应用，更新频率少而且稳定。&lt;br&gt;Win10 应用商店可通过手动安装，然后再安装其他的 UWP 应用。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;密钥：&lt;code&gt;YJQNW-QH3Y8-JDHW2-MGV9F-2KCR9&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;64位：&lt;span class=&#34;exturl&#34; data-url=&#34;ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfZW50ZXJwcmlzZV9sdHNjXzIwMTlfeDY0X2R2ZF85YzA5ZmYyNC5pc298NDQ3ODkwNjM2OHxFN0M1MjY0OTkzMDg4NDFBNEE2RDExNkM4NTdEQjY2OXwv&#34;&gt;ED2K 下载链接&lt;/span&gt;，发布时间 2019-03-15&lt;/li&gt;
+&lt;li&gt;32位：&lt;span class=&#34;exturl&#34; data-url=&#34;ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfZW50ZXJwcmlzZV9sdHNjXzIwMTlfeDg2X2R2ZF8xODE0ZGJhYi5pc298MzE5NjgwMzA3MnwyRDM5QzU0QTJFOTlCQUMzMDgxOTFDNzRBMTVCMzIzN3wv&#34;&gt;ED2K 下载链接&lt;/span&gt;，发布时间 2019-03-15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-企业版、教育版、专业版：&#34;&gt;&lt;a href=&#34;#»-企业版、教育版、专业版：&#34; class=&#34;headerlink&#34; title=&#34;» 企业版、教育版、专业版：&#34;&gt;&lt;/a&gt;» 企业版、教育版、专业版：&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;推荐怕给怕麻烦的人。&lt;br&gt;有 Win10 应用商店、有微软小娜、有 UWP 应用，更新频率频繁。&lt;br&gt;由安装密钥决定版本，激活后可通过密钥再次更换为别的版本再次激活。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;密钥：&lt;code&gt;NK96Y-D9CD8-W44CQ-R8YTK-DYJWX&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;64位：&lt;span class=&#34;exturl&#34; data-url=&#34;ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfYnVzaW5lc3NfZWRpdGlvbnNfdmVyc2lvbl8yMGgyX3VwZGF0ZWRfYXByaWxfMjAyMV94NjRfZHZkXzBhMGZjNDkwLmlzb3w2MTY1ODMxNjgwfDlCNEI5MThBODQwRjg0NUE0M0RENDc2RkNFQzNFNDIxfC8=&#34;&gt;ED2K 下载链接&lt;/span&gt;，发布时间 2021-04-20&lt;/li&gt;
+&lt;li&gt;32位：&lt;span class=&#34;exturl&#34; data-url=&#34;ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfYnVzaW5lc3NfZWRpdGlvbnNfdmVyc2lvbl8yMGgyX3VwZGF0ZWRfYXByaWxfMjAyMV94ODZfZHZkXzBlOTRiMzNjLmlzb3w0NTM4NzQyNzg0fEE3MzhEQkU3NzEzN0RCOUFFQ0Q4QzU2NTAwMDExNzRCfC8=&#34;&gt;ED2K 下载链接&lt;/span&gt;，发布时间 2021-04-20&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-自选系统与版本：&#34;&gt;&lt;a href=&#34;#»-自选系统与版本：&#34; class=&#34;headerlink&#34; title=&#34;» 自选系统与版本：&#34;&gt;&lt;/a&gt;» 自选系统与版本：&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;推荐专业人士，不懂电脑请看上面的两个版本。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;链接 1：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tc2RuLml0ZWxseW91LmNuLw==&#34;&gt;MSDN，我告诉你（旧站）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;链接 2：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZXh0Lml0ZWxseW91LmNuL09yaWdpbmFsL0luZGV4&#34;&gt;MSDN，我告诉你（新站）&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/ide/add_vscode_to_the_right_click_menu/</guid>
+            <title>添加 vscode 到右键菜单</title>
+            <link>https://byx.vercel.app/note/program/ide/add_vscode_to_the_right_click_menu/</link>
+            <category>编程</category>
+            <category>IDE</category>
+            <pubDate>Mon, 23 Sep 2019 23:03:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-bash&#34; data-language=&#34;bash&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;Windows Registry Editor Version &lt;span class=&#34;token number&#34;&gt;5.00&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;*&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;用 Visual Studio Code 打开&#34;&lt;/span&gt;
+&lt;span class=&#34;token string&#34;&gt;&#34;Icon&#34;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&#34;&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;*&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;command&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt; &lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%1&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;&#34;&lt;/span&gt;
+
+Windows Registry Editor Version &lt;span class=&#34;token number&#34;&gt;5.00&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Directory&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;用 Visual Studio Code 打开&#34;&lt;/span&gt;
+&lt;span class=&#34;token string&#34;&gt;&#34;Icon&#34;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&#34;&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Directory&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;command&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt; &lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%V&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;&#34;&lt;/span&gt;
+
+Windows Registry Editor Version &lt;span class=&#34;token number&#34;&gt;5.00&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Directory&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Background&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;用 Visual Studio Code 打开&#34;&lt;/span&gt;
+&lt;span class=&#34;token string&#34;&gt;&#34;Icon&#34;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&#34;&lt;/span&gt;
+
+&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Directory&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;Background&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;shell&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;VSCode&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;command&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;
+@&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%localappdata%&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Programs&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Microsoft VS Code&lt;span class=&#34;token entity&#34; title=&#34;\\&#34;&gt;\\&lt;/span&gt;Code.exe&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt; &lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;%V&lt;span class=&#34;token entity&#34; title=&#34;\&amp;quot;&#34;&gt;\&#34;&lt;/span&gt;&#34;&lt;/span&gt;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/computer_science/all_modes_of_raid_are_explained-in-detail/</guid>
+            <title>RAID所有模式详解</title>
+            <link>https://byx.vercel.app/note/computer_science/all_modes_of_raid_are_explained-in-detail/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 + 1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;串联&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;JBOD&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-0&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-0&#34;&gt;#&lt;/a&gt; RAID 0&lt;/h1&gt;
+&lt;h4 id=&#34;介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;  是  &lt;code&gt;速度最快&lt;/code&gt;  的一种  &lt;code&gt;RAID 模式&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;   &lt;code&gt;至少需要两个磁盘&lt;/code&gt; ，并且会将  &lt;code&gt;数据分条到每个磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;所有磁盘的可用容量合在一起&lt;/code&gt; ，成为计算机上的 &lt;code&gt;一个逻辑卷&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘发生故障&lt;/code&gt; ， &lt;code&gt;所有磁盘的数据&lt;/code&gt;  都将  &lt;code&gt;不可访问&lt;/code&gt; ，因为  &lt;code&gt;数据分条到每个磁盘&lt;/code&gt;  里了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;  是要求  &lt;code&gt;最高速度&lt;/code&gt;  和  &lt;code&gt;最大容量&lt;/code&gt;  的  &lt;code&gt;理想选择&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;要  &lt;code&gt;处理超大型文件的视频编缉&lt;/code&gt;  可以使用  &lt;code&gt;RAID 0&lt;/code&gt;  来编辑视频的多个流，以达到  &lt;code&gt;最佳播放效果&lt;/code&gt;  和  &lt;code&gt;最快导出效果&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 0&lt;/code&gt;  阵列  &lt;code&gt;更适于在频繁的文件处理&lt;/code&gt;  中使用， &lt;code&gt;不宜用作唯一的存储备份解决方案&lt;/code&gt; ，也  &lt;code&gt;不宜在关键任务系统中使用&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;读写速度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读写速度&#34;&gt;#&lt;/a&gt; 读写速度：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 读写速度&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  x  &lt;code&gt;磁盘读写速度&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  x  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-1&#34;&gt;#&lt;/a&gt; RAID 1&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-2&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 1&lt;/code&gt;  是一种  &lt;code&gt;安全&lt;/code&gt;  的  &lt;code&gt;RAID 模式&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 1&lt;/code&gt;   &lt;code&gt;至少需要两个磁盘&lt;/code&gt; ，并且磁盘成对计算机上将安装  &lt;code&gt;一个逻辑卷&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;两个磁盘&lt;/code&gt;  合并后的  &lt;code&gt;可用容量&lt;/code&gt;  限制为  &lt;code&gt;最小磁盘的容量上限&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，可以立即从  &lt;code&gt;第二个磁盘上获取数据&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;即使  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，也  &lt;code&gt;不会丢失任何数据&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-2&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 1&lt;/code&gt;  可提供  &lt;code&gt;最高的数据安全性&lt;/code&gt; ，但由于  &lt;code&gt;数据需写入两次&lt;/code&gt; ，因此在  &lt;code&gt;写入时性能会略有下降&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;更注重安全性而非速度&lt;/code&gt;  的情况下， &lt;code&gt;RAID 1&lt;/code&gt;  是  &lt;code&gt;理想选择&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;读写速度-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读写速度-2&#34;&gt;#&lt;/a&gt; 读写速度：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 1 读写速度&lt;/code&gt;  ≤  &lt;code&gt;磁盘数&lt;/code&gt;  x  &lt;code&gt;读写速度&lt;/code&gt;  /  &lt;code&gt;磁盘数&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-2&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 1 可用容量&lt;/code&gt;  ≤  &lt;code&gt;磁盘数&lt;/code&gt;  x  &lt;code&gt;磁盘容量&lt;/code&gt;  /  &lt;code&gt;2&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-3&#34;&gt;#&lt;/a&gt; RAID 3&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-3&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  使用  &lt;code&gt;字节级别的条带化&lt;/code&gt;  技术&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  采用  &lt;code&gt;专用的奇偶校验磁盘&lt;/code&gt; ，因此计算机上会安装  &lt;code&gt;一个逻辑卷&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  阵列能在  &lt;code&gt;一个磁盘出现故障&lt;/code&gt;  的情况下  &lt;code&gt;确保数据不丢失&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，该磁盘上的  &lt;code&gt;数据可以重建到更换磁盘上&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;数据尚未重建到更换磁盘上&lt;/code&gt; ，而此时  &lt;code&gt;又有一个磁盘出现故障&lt;/code&gt; ，那么阵列中的  &lt;code&gt;所有数据都将丢失&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-3&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  在要  &lt;code&gt;读取连续的长文件&lt;/code&gt; （如：视频文件）的环境中  &lt;code&gt;可提供良好的数据安全性&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;由于数据是从  &lt;code&gt;奇偶校验块中读取&lt;/code&gt; ，因此  &lt;code&gt;磁盘故障不会导致服务中断&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  适用于  &lt;code&gt;追求性能并要求持续访问数据&lt;/code&gt; （如：视频编辑）&lt;/li&gt;
+&lt;li&gt;对于  &lt;code&gt;密集使用不连续文件&lt;/code&gt;  来说， &lt;code&gt;RAID 3&lt;/code&gt;  并  &lt;code&gt;非理想之选&lt;/code&gt; ，因为  &lt;code&gt;专用的奇偶校验磁盘&lt;/code&gt;  会影响  &lt;code&gt;随机读取性能&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;读写速度-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读写速度-3&#34;&gt;#&lt;/a&gt; 读写速度：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 读写速度&lt;/code&gt;  ≤ (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;1&lt;/code&gt;  ) x  &lt;code&gt;磁盘读写速度&lt;/code&gt;  /  (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;1&lt;/code&gt;  )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-3&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;1&lt;/code&gt;  ) x  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-3-spare&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-3-spare&#34;&gt;#&lt;/a&gt; RAID 3 + Spare&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-4&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare&lt;/code&gt;  模式下，阵列中会有  &lt;code&gt;一个磁盘保持空置状态&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，故障磁盘中的数据就会  &lt;code&gt;自动重建到空磁盘（备用磁盘）上&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-4&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare&lt;/code&gt;  模式下， &lt;code&gt;磁盘故障不需要立即处理&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare&lt;/code&gt;  会使用  &lt;code&gt;热备用磁盘对自己进行重建&lt;/code&gt; ，但  &lt;code&gt;故障磁盘还是应尽快更换&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-4&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 3 + Spare 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;2&lt;/code&gt;  ) *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-5&#34;&gt;#&lt;/a&gt; RAID 5&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-5&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;  综合了  &lt;code&gt;RAID 0&lt;/code&gt;  的  &lt;code&gt;条带化技术&lt;/code&gt;  以及  &lt;code&gt;阵列数据冗余技术&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;   &lt;code&gt;至少需要三个磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 3&lt;/code&gt;  和  &lt;code&gt;RAID 5&lt;/code&gt;  的区别： &lt;code&gt;RAID 3&lt;/code&gt;  配置提供的  &lt;code&gt;性能更高&lt;/code&gt; ，但  &lt;code&gt;总容量略低&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;数据会在  &lt;code&gt;所有磁盘之间分条&lt;/code&gt; ，并且  &lt;code&gt;每个数据块的奇偶校验块 (P) 写入到同一条带上&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，该磁盘上的数据  &lt;code&gt;可以重建到更换磁盘上&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;出现故障时， &lt;code&gt;数据不会丢失&lt;/code&gt; ，但如果  &lt;code&gt;数据尚未重建到更换磁盘上&lt;/code&gt; ，而此时  &lt;code&gt;又有一个磁盘出现故障&lt;/code&gt; ，阵列中的  &lt;code&gt;所有数据都将丢失&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-5&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;  综合考虑了  &lt;code&gt;数据安全&lt;/code&gt;  和  &lt;code&gt;磁盘空间充分利用&lt;/code&gt;  这两方面的因素&lt;/li&gt;
+&lt;li&gt;由于数据是从  &lt;code&gt;奇偶校验块中读取&lt;/code&gt; ，因此  &lt;code&gt;磁盘故障不会导致服务中断&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5&lt;/code&gt;  适用于  &lt;code&gt;归档&lt;/code&gt; ，且  &lt;code&gt;适合追求性能并要求持续访问数据&lt;/code&gt; （如：视频编辑）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-5&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;1&lt;/code&gt;  ) *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-5-spare&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-5-spare&#34;&gt;#&lt;/a&gt; RAID 5 + Spare&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-6&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;  是一种  &lt;code&gt;RAID 5&lt;/code&gt;  阵列，其中有  &lt;code&gt;一个磁盘用作备用磁盘&lt;/code&gt; ，用于在  &lt;code&gt;磁盘发生故障时立即重建系统&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;   &lt;code&gt;至少需要四个磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘发生故障&lt;/code&gt; ，磁盘上的  &lt;code&gt;数据仍然可以访问&lt;/code&gt; ，因为数据是  &lt;code&gt;从奇偶校验块&lt;/code&gt;  中读取的&lt;/li&gt;
+&lt;li&gt;故障磁盘上的数据  &lt;code&gt;将重建到热备用磁盘上&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;当  &lt;code&gt;故障磁盘更换后&lt;/code&gt; ， &lt;code&gt;更换的磁盘便成为新的热备用磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;出现故障时， &lt;code&gt;数据不会丢失&lt;/code&gt; ，但如果  &lt;code&gt;系统尚未将数据 重建到热备用磁盘上&lt;/code&gt; ，而此时  &lt;code&gt;又有一个磁盘出现故障&lt;/code&gt; ，那么阵列中的  &lt;code&gt;所有数据都将丢失&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-6&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;  的优点：在系统将  &lt;code&gt;数据重建至备用磁盘时用户仍可以继续访问数据&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;  能  &lt;code&gt;提供良好的数据安全&lt;/code&gt; ，但  &lt;code&gt;磁盘空间由于热备用磁盘的存在&lt;/code&gt; （在其他磁盘出现故障之后才使用）而  &lt;code&gt;受到限制&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare&lt;/code&gt;  会使用  &lt;code&gt;热备用磁盘对自己进行重建&lt;/code&gt; ，但  &lt;code&gt;故障磁盘还是应尽快更换&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-6&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 5 + Spare 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;2&lt;/code&gt;  ) *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-6&#34;&gt;#&lt;/a&gt; RAID 6&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-7&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-7&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;  的数据会在  &lt;code&gt;所有磁盘间进行分条&lt;/code&gt; ，并且  &lt;code&gt;每个数据块&lt;/code&gt;  的  &lt;code&gt;两个奇偶校验块&lt;/code&gt;  写入到  &lt;code&gt;同一条带&lt;/code&gt;  上&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;   &lt;code&gt;至少需要四个磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;一个磁盘出现故障&lt;/code&gt; ，该磁盘上的  &lt;code&gt;数据可以重建到更换磁盘&lt;/code&gt;  上&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;   &lt;code&gt;最多允许两个磁盘出故障&lt;/code&gt;  而  &lt;code&gt;不丢失数据&lt;/code&gt; ，而且它能  &lt;code&gt;更快地重建故障磁盘上的数据&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-7&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-7&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 6&lt;/code&gt;  能  &lt;code&gt;进行有效的重建&lt;/code&gt; ， &lt;code&gt;确保了数据的可靠性&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;安全性要求较高&lt;/code&gt;  且对  &lt;code&gt;性能要求不高&lt;/code&gt;  可以选择  &lt;code&gt;RAID 6&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-7&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-7&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 6 可用容量&lt;/code&gt;  = (  &lt;code&gt;磁盘数&lt;/code&gt;  -  &lt;code&gt;2&lt;/code&gt;  ) *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-0-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-0-1&#34;&gt;#&lt;/a&gt; RAID 0 + 1&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-8&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-8&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 + 1&lt;/code&gt;  是一种  &lt;code&gt;安全&lt;/code&gt;  的  &lt;code&gt;RAID 模式&lt;/code&gt; ， &lt;code&gt;由条带集的镜像组成&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 + 1&lt;/code&gt;  的  &lt;code&gt;磁盘数 为 四的倍数&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;RAID 0 + 1&lt;/code&gt;  中， &lt;code&gt;五个磁盘 的 第五个磁盘&lt;/code&gt;  将成为  &lt;code&gt;备用磁盘&lt;/code&gt;  或  &lt;code&gt;空置磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;RAID 0 + 1&lt;/code&gt;  中， &lt;code&gt;最多允许两个磁盘出现故障&lt;/code&gt;  而  &lt;code&gt;不会丢失数据&lt;/code&gt; ，但故障磁盘  &lt;code&gt;必须属于同一 RAID 0 队列&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-8&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-8&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0+1&lt;/code&gt;  使用  &lt;code&gt;RAID 0 条带技术&lt;/code&gt;  来  &lt;code&gt;提供良好的速度&lt;/code&gt; ，但设备的  &lt;code&gt;可用容量会减少一半&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-8&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-8&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 0 + 1 可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  *  &lt;code&gt;磁盘容量&lt;/code&gt;  /  &lt;code&gt;2&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;raid-10&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#raid-10&#34;&gt;#&lt;/a&gt; RAID 10&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-9&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-9&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt; （也称为  &lt;code&gt;RAID 1 + 0&lt;/code&gt; ）是合并了其他级别（尤其是  &lt;code&gt;RAID 1&lt;/code&gt;  和  &lt;code&gt;RAID 0&lt;/code&gt; ）特点的另一种 RAID 级别&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt;  是一种  &lt;code&gt;镜像集条带&lt;/code&gt; ，意思是  &lt;code&gt;数据在两个镜像阵列间分条&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;条带化&lt;/code&gt;  在阵列之间发生，而  &lt;code&gt;镜像&lt;/code&gt;  是  &lt;code&gt;在相同的阵列中出现&lt;/code&gt; ， &lt;code&gt;两种技术的组合加快了重建的速度&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt;  的  &lt;code&gt;磁盘数 为 四的倍数&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;RAID 10&lt;/code&gt;  中， &lt;code&gt;五个磁盘 的 第五个磁盘&lt;/code&gt;  将成为  &lt;code&gt;备用磁盘&lt;/code&gt;  或  &lt;code&gt;空置磁盘&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在  &lt;code&gt;RAID 10&lt;/code&gt;  中， &lt;code&gt;每个镜像&lt;/code&gt;  对中  &lt;code&gt;可以有一个磁盘出现故障&lt;/code&gt;  而  &lt;code&gt;不丢失数据&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;故障磁盘  &lt;code&gt;所在阵列的磁盘会成为整个阵列中的弱点&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;如果  &lt;code&gt;镜像&lt;/code&gt;  对中的  &lt;code&gt;另一个磁盘也发生故障&lt;/code&gt; ，则  &lt;code&gt;会丢失整个阵列&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;应用-9&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用-9&#34;&gt;#&lt;/a&gt; 应用：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 10&lt;/code&gt;  使用  &lt;code&gt;RAID 0&lt;/code&gt;   &lt;code&gt;条带技术&lt;/code&gt;  来  &lt;code&gt;提供良好的速度&lt;/code&gt; ，但设备的  &lt;code&gt;可用容量会减少一半&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-9&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-9&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;RAID 10 可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  *  &lt;code&gt;磁盘容量&lt;/code&gt;  /  &lt;code&gt;2&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;串联&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#串联&#34;&gt;#&lt;/a&gt; 串联&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-10&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-10&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;磁盘  &lt;code&gt;串联&lt;/code&gt;  时，其  &lt;code&gt;容量&lt;/code&gt;  将会  &lt;code&gt;合并&lt;/code&gt; ，并且数据会写入阵列中的主磁盘，主磁盘写满后再写入下一个磁盘&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;串联&lt;/code&gt;   &lt;code&gt;无性能优势&lt;/code&gt; ，也  &lt;code&gt;不能增加数据安全措施&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;串联&lt;/code&gt;  只是  &lt;code&gt;扩大总容量&lt;/code&gt;  而将  &lt;code&gt;两个磁盘组合为一个卷&lt;/code&gt;  的方法&lt;/li&gt;
+&lt;li&gt;通过  &lt;code&gt;串联可以完全使用阵列&lt;/code&gt;  中  &lt;code&gt;所有磁盘的容量&lt;/code&gt; ，并且在磁盘发生故障时  &lt;code&gt;大部分数据都可以保存下来&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;只有  &lt;code&gt;故障磁盘上的数据&lt;/code&gt;  、 &lt;code&gt;部分写入故障磁盘&lt;/code&gt;  和  &lt;code&gt;作业磁盘的数据才会丢失&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-10&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-10&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;串联可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;jbod&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#jbod&#34;&gt;#&lt;/a&gt; JBOD&lt;/h1&gt;
+&lt;h4 id=&#34;介绍-11&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-11&#34;&gt;#&lt;/a&gt; 介绍：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;JBOD&lt;/code&gt;  代表  &lt;code&gt;简单磁盘捆绑&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;阵列中的  &lt;code&gt;每个磁盘&lt;/code&gt; ，无论是属于  &lt;code&gt;不同设备&lt;/code&gt;  还是  &lt;code&gt;同一设备&lt;/code&gt; ，都会作为  &lt;code&gt;单独的磁盘&lt;/code&gt;  安装在计算机上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;容量-11&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容量-11&#34;&gt;#&lt;/a&gt; 容量：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;JBOD可用容量&lt;/code&gt;  =  &lt;code&gt;磁盘数&lt;/code&gt;  *  &lt;code&gt;磁盘容量&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/compress_json_data/</guid>
+            <title>C# 压缩json数据</title>
+            <link>https://byx.vercel.app/note/program/csharp/compress_json_data/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;static void Main() &amp;#123;
+    string json_data &amp;#x3D; &amp;quot;假装json数据&amp;quot;;
+    &amp;#x2F;&amp;#x2F; 压缩 json 数据
+    string json_data &amp;#x3D; JsonCompress(json_data);
+&amp;#125;
+
+public static string JsonCompress(string json)
+&amp;#123;
+    StringBuilder sb &amp;#x3D; new StringBuilder();
+    using (StringReader reader &amp;#x3D; new StringReader(json))
+    &amp;#123;
+        int ch &amp;#x3D; -1;
+        int lastch &amp;#x3D; -1;
+        bool isQuoteStart &amp;#x3D; false;
+        while ((ch &amp;#x3D; reader.Read()) &amp;gt; -1)
+        &amp;#123;
+            if ((char)lastch !&amp;#x3D; &amp;#39;\\&amp;#39; &amp;amp;&amp;amp; (char)ch &amp;#x3D;&amp;#x3D; &amp;#39;\&amp;quot;&amp;#39;)
+            &amp;#123;
+                if (!isQuoteStart) isQuoteStart &amp;#x3D; true;
+                else isQuoteStart &amp;#x3D; false;
+            &amp;#125;
+            if (!Char.IsWhiteSpace((char)ch) || isQuoteStart) sb.Append((char)ch);
+            lastch &amp;#x3D; ch;
+        &amp;#125;
+    &amp;#125;
+    return sb.ToString();
+&amp;#125;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/get_the_number_of_system_bits/</guid>
+            <title>C# 获取系统位数</title>
+            <link>https://byx.vercel.app/note/program/csharp/get_the_number_of_system_bits/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;if (Environment.Is64BitOperatingSystem) &amp;#123;
+    Console.WriteLine(&amp;quot;64 位系统&amp;quot;);
+&amp;#125; else &amp;#123;
+    Console.WriteLine(&amp;quot;32 位系统&amp;quot;);
+&amp;#125;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/get_the_resolution_of_the_monitor/</guid>
+            <title>C# 获取显示器分辨率</title>
+            <link>https://byx.vercel.app/note/program/csharp/get_the_resolution_of_the_monitor/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;&amp;#x2F;&amp;#x2F; 获取：显示器分辨率的宽度
+int width &amp;#x3D; Screen.PrimaryScreen.Bounds.Width;
+&amp;#x2F;&amp;#x2F; 获取：显示器分辨率的高度
+int height &amp;#x3D; Screen.PrimaryScreen.Bounds.Height;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/serialize_and_deserialize_yaml/</guid>
+            <title>C# 读取和使用 yaml</title>
+            <link>https://byx.vercel.app/note/program/csharp/serialize_and_deserialize_yaml/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;using System;
+using System.IO;
+using YamlDotNet.Serialization;
+
+namespace Test
+&amp;#123;
+    public class Test
+    &amp;#123;
+        static void Main()
+        &amp;#123;
+            &amp;#x2F;&amp;#x2F; 读取
+            string str &amp;#x3D; File.ReadAllText(&amp;quot;cat.yaml&amp;quot;);
+            Animal cat &amp;#x3D; new DeserializerBuilder().Build().Deserialize&amp;lt;Animal&amp;gt;(str);
+            Console.WriteLine(cat.name);
+            
+            &amp;#x2F;&amp;#x2F; 写入
+            string str2 &amp;#x3D; new SerializerBuilder().Build().Serialize(cat);
+            Console.WriteLine(str2);
+        &amp;#125;
+    &amp;#125;
+
+    public class Animal
+    &amp;#123;
+        public string name &amp;#123; get; set; &amp;#125;
+        public int age &amp;#123; get; set; &amp;#125;
+    &amp;#125;
+&amp;#125;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/set_textbox_to_multiline_text/</guid>
+            <title>C# 设置 TextBox 为多行文本</title>
+            <link>https://byx.vercel.app/note/program/csharp/set_textbox_to_multiline_text/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;&amp;#x2F;&amp;#x2F; 设置 TextBox 为多行文本
+TextBox.AcceptsReturn &amp;#x3D; true;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/program/csharp/use_zip_to_compress_files_and_folders/</guid>
+            <title>C# 使用 zip 压缩文件和文件夹</title>
+            <link>https://byx.vercel.app/note/program/csharp/use_zip_to_compress_files_and_folders/</link>
+            <category>编程</category>
+            <category>C#</category>
+            <pubDate>Sun, 18 Aug 2019 15:35:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;pre class=&#34;line-numbers language-c#&#34; data-language=&#34;c#&#34;&gt;&lt;code class=&#34;language-c#&#34;&gt;using ICSharpCode.SharpZipLib.Checksum;
+using ICSharpCode.SharpZipLib.Zip;
+
+namespace Test
+&amp;#123;
+    static void Main() &amp;#123;
+        &amp;#x2F;&amp;#x2F; 打包为 zip
+        Zip(@&amp;quot;C:\打包的路径&amp;quot;, @&amp;quot;D:\目标路径的zip文件.zip&amp;quot;);
+    &amp;#125;
+
+    public static void Zip(string folderToZip, string zipedFile)
+    &amp;#123;
+        ZipOutputStream zipStream &amp;#x3D; new ZipOutputStream(File.Create(Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + @&amp;quot;\&amp;quot; + zipedFile));
+        &amp;#x2F;&amp;#x2F; 设置压缩率
+        &amp;#x2F;&amp;#x2F; zipStream.SetLevel(4);
+        ZipDirectory(folderToZip, zipStream);
+        zipStream.Finish();
+        zipStream.Close();
+    &amp;#125;
+
+    public static void ZipDirectory(string folderToZip, ZipOutputStream zipStream)
+    &amp;#123;
+        string[] folders, files;
+        FileStream fs &amp;#x3D; null;
+        Crc32 crc &amp;#x3D; new Crc32();
+
+        files &amp;#x3D; Directory.GetFiles(folderToZip);
+        foreach (string file in files)
+        &amp;#123;
+            fs &amp;#x3D; File.OpenRead(file);
+            byte[] buffer &amp;#x3D; new byte[fs.Length];
+            fs.Read(buffer, 0, buffer.Length);
+            ZipEntry ent &amp;#x3D; new ZipEntry(file.Replace(Path.GetDirectoryName(root_dir) + @&amp;quot;\&amp;quot;, &amp;quot;&amp;quot;));
+            ent.DateTime &amp;#x3D; DateTime.Now;
+            ent.Size &amp;#x3D; fs.Length;
+            fs.Close();
+            crc.Reset();
+            crc.Update(buffer);
+            ent.Crc &amp;#x3D; crc.Value;
+            zipStream.PutNextEntry(ent);
+            zipStream.Write(buffer, 0, buffer.Length);
+        &amp;#125;
+        if (fs !&amp;#x3D; null)
+        &amp;#123;
+            fs.Close();
+            fs.Dispose();
+        &amp;#125;
+        GC.Collect();
+        GC.Collect(1);
+
+        folders &amp;#x3D; Directory.GetDirectories(folderToZip);
+        foreach (string folder in folders)
+        &amp;#123;
+            ZipDirectory(folder, zipStream);
+        &amp;#125;
+    &amp;#125;
+&amp;#125;&lt;span aria-hidden=&#34;true&#34; class=&#34;line-numbers-rows&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,176 @@
+[[list]]
+nick = "基岩版服务器"
+name = "bedrock_server"
+description = "官方基岩版服务器端"
+enable = true
+httpclient = false
+listview = "bds_lv"
+url = "https://www.minecraft.net/en-us/download/server/bedrock"
+download = "https://www.minecraft.net/en-us/download/server/bedrock"
+rule = "bedrock-server-([\\.\\d]+).zip"
+index = 1
+[[list]]
+nick = "基岩版服务器 预览版"
+name = "bedrock_server_preview"
+description = "官方基岩版服务器端"
+enable = true
+httpclient = false
+listview = "bds_lv"
+url = "https://www.minecraft.net/en-us/download/server/bedrock"
+download = "https://www.minecraft.net/en-us/download/server/bedrock"
+rule = "preview/bedrock-server-([\\.\\d]+).zip"
+index = 1
+[[list]]
+nick = "PowerNukkitX"
+name = "powernukkitx"
+description = "高性能、富原版特性、高拓展性的独立服务端核心"
+enable = true
+httpclient = true
+listview = "bds_lv"
+url = "https://www.minebbs.com/resources/powernukkitx-_-_.3668/history"
+download = "https://www.minebbs.com/resources/powernukkitx-_-_.3668/updates"
+rule = "muted\">([\\.\\d\\w/:-]+)"
+index = 1
+[[list]]
+nick = "Geyser"
+name = "geyser"
+description = "使基岩版玩家可以加入 Java 版的服务器"
+enable = true
+httpclient = true
+listview = "bds_lv"
+url = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/"
+download = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/"
+rule = "Last successful build \\(#(\\d+)\\)"
+index = 1
+[[list]]
+nick = "Geyser 测试版"
+name = "geyser_beta"
+description = "使基岩版玩家可以加入 Java 版的服务器"
+enable = false
+httpclient = true
+listview = "bds_lv"
+url = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/feature%252F1.17/"
+download = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/feature%252F1.17/"
+rule = "Last successful build \\(#(\\d+)\\)"
+index = 1
+[[list]]
+nick = "NukkitX"
+name = "nukkit"
+description = "性能高效、基于 Java 的基岩版服务端"
+enable = true
+httpclient = true
+listview = "bds_lv"
+url = "https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/"
+download = "https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/"
+rule = "Last successful build \\(#(\\d+)\\)"
+index = 1
+[[list]]
+nick = "Nukkit 测试版"
+name = "nukkit_beta"
+description = "性能高效、基于 Java 的基岩版服务端"
+enable = false
+httpclient = true
+listview = "bds_lv"
+url = "https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/feature%252F1.17/"
+download = "https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/feature%252F1.17/"
+rule = "Last successful build \\(#(\\d+)\\)"
+index = 1
+[[list]]
+nick = "LiteLoader"
+name = "liteloader"
+description = "划时代 x 跨语言 BDS 插件加载器"
+enable = true
+httpclient = true
+listview = "ll_lv"
+url = "https://www.minebbs.com/liteloader/history"
+download = "https://www.minebbs.com/liteloader/updates"
+rule = "muted\">([\\.\\d\\w]+)"
+index = 1
+[[list]]
+nick = "LLEsssentials"
+name = "llesssentials"
+description = "LiteLoader 基础插件"
+enable = true
+httpclient = true
+listview = "ll_lv"
+url = "https://www.minebbs.com/resources/llesssentials-ll-basic-plugins-ll.2547/history"
+download = "https://www.minebbs.com/resources/llesssentials-ll-basic-plugins-ll.2547/updates"
+rule = "muted\">([\\.\\d\\w]+)"
+index = 1
+[[list]]
+nick = "LLAntiCheat"
+name = "llanticheat"
+description = "社区驱动的强大反作弊插件"
+enable = true
+httpclient = true
+listview = "ll_lv"
+url = "https://www.minebbs.com/resources/llanticheat.3245/history"
+download = "https://www.minebbs.com/resources/llanticheat.3245/updates"
+rule = "muted\">([\\.\\d\\w]+)"
+index = 1
+[[list]]
+nick = "AntiToolbox"
+name = "antitoolbox"
+description = "阻止部分 Toolbox 玩家进入服务器"
+enable = true
+httpclient = true
+listview = "ll_lv"
+url = "https://www.minebbs.com/resources/antitoolbox-toolbox.2724/history"
+download = "https://www.minebbs.com/resources/antitoolbox-toolbox.2724/updates"
+rule = "muted\">([\\.\\d\\w]+)"
+index = 1
+[[list]]
+nick = "LLCheckBag"
+name = "llcheckbag"
+description = "可查所有玩家的背包"
+enable = true
+httpclient = true
+listview = "ll_lv"
+url = "https://www.minebbs.com/resources/llcheckbag.3367/history"
+download = "https://www.minebbs.com/resources/llcheckbag.3367/updates"
+rule = "muted\">([\\.\\d\\w]+)"
+index = 1
+[[list]]
+nick = "Java 版服务器"
+name = "java_server"
+description = "官方 Java 版服务器端"
+enable = true
+httpclient = false
+listview = "js_lv"
+url = "https://www.minecraft.net/en-us/download/server/"
+download = "https://www.minecraft.net/en-us/download/server/"
+rule = "minecraft_server\\.(\\d[\\.\\d]{3,})\\.jar"
+index = 1
+[[list]]
+nick = "Paper"
+name = "paper"
+description = "与 Spigot 插件兼容，提供不折不扣性能的服务器核心"
+enable = true
+httpclient = true
+listview = "js_lv"
+url = "https://papermc.io/js/downloads.js"
+download = "https://papermc.io/downloads"
+rule = "Paper-[\\d\\.]+"
+index = 0
+[[list]]
+nick = "Optifine"
+name = "optifine"
+description = "优化 FPS、以及提供光影支持"
+enable = true
+httpclient = true
+listview = "jm_lv"
+url = "https://optifine.net/downloads"
+download = "http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f="
+rule = "colFile'>(OptiFine .*?)<"
+index = 1
+[[list]]
+nick = "Optifine 预览版"
+name = "optifine_pre"
+description = "优化 FPS、以及提供光影支持"
+enable = true
+httpclient = true
+listview = "jm_lv"
+url = "https://optifine.net/downloads"
+download = "https://optifine.net/downloads"
+rule = "OptiFine .*? pre\\d+"
+index = 0

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://byx.vercel.app</id>
+    <title>星祤书架 • Posts by &#34;工具&#34; category</title>
+    <link href="https://byx.vercel.app" />
+    <updated>2021-03-28T00:28:35.000Z</updated>
+    <category term="编程" />
+    <category term="C#" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="网站" />
+    <category term="Win10" />
+    <category term="Android" />
+    <category term="Minecraft（我的世界）" />
+    <category term="基岩版" />
+    <category term="Java版" />
+    <category term="工具" />
+    <category term="教程" />
+    <category term="安卓" />
+    <category term="IDE" />
+    <category term="软件时间轴" />
+    <entry>
+        <id>https://byx.vercel.app/note/tools/web/webmasters/</id>
+        <title>网站管理员工具</title>
+        <link rel="alternate" href="https://byx.vercel.app/note/tools/web/webmasters/"/>
+        <content type="html">&lt;h1 id=&#34;网站管理员工具&#34;&gt;&lt;a href=&#34;#网站管理员工具&#34; class=&#34;headerlink&#34; title=&#34;网站管理员工具&#34;&gt;&lt;/a&gt;网站管理员工具&lt;/h1&gt;&lt;h1 id=&#34;»-快照更新：&#34;&gt;&lt;a href=&#34;#»-快照更新：&#34; class=&#34;headerlink&#34; title=&#34;» 快照更新：&#34;&gt;&lt;/a&gt;» 快照更新：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=&#34;&gt;谷歌搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=&#34;&gt;今日头条&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTI=&#34;&gt;搜狗搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2luZm8uc28uMzYwLmNuL2NhY2hlX3JlbW92ZS5odG1s&#34;&gt;360搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3RvdXN1LmJhaWR1LmNvbS93ZWJtYXN0ZXIvYWRk&#34;&gt;百度搜索&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;»-提交入口：&#34;&gt;&lt;a href=&#34;#»-提交入口：&#34; class=&#34;headerlink&#34; title=&#34;» 提交入口：&#34;&gt;&lt;/a&gt;» 提交入口：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=&#34;&gt;谷歌搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=&#34;&gt;今日头条&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmluZy5jb20vdG9vbGJveC93ZWJtYXN0ZXI=&#34;&gt;必应搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTE=&#34;&gt;搜狗搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3poYW56aGFuZy5zby5jb20v&#34;&gt;360搜索&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aXl1YW4uYmFpZHUuY29tL2xpbmtzdWJtaXQvdXJs&#34;&gt;百度搜索&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="网站" />
+        <category term="工具" />
+        <updated>2021-03-28T00:28:35.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,53 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "星祤书架 • All posts by \"win10\" tag",
+    "description": "游戏更新 & 编程笔记",
+    "home_page_url": "https://byx.vercel.app",
+    "items": [
+        {
+            "id": "https://byx.vercel.app/note/suggest/hardware_ladder_diagram/",
+            "url": "https://byx.vercel.app/note/suggest/hardware_ladder_diagram/",
+            "title": "天梯图大全：显卡、CPU、笔记本显卡、笔记本CPU",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"»-电脑：\"><a href=\"#»-电脑：\" class=\"headerlink\" title=\"» 电脑：\"></a>» 电脑：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9ncHUv\">显卡天梯图</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9jcHUv\">CPU天梯图</span></li>\n</ul>\n<h1 id=\"»-笔记本：\"><a href=\"#»-笔记本：\" class=\"headerlink\" title=\"» 笔记本：\"></a>» 笔记本：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9ncHVtLw==\">显卡天梯图</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubXlkcml2ZXJzLmNvbS96aHVhbnRpL3RpYW50aS9jcHVtLw==\">CPU天梯图</span></li>\n</ul>\n",
+            "tags": [
+                "推荐",
+                "Win10",
+                "Android"
+            ]
+        },
+        {
+            "id": "https://byx.vercel.app/note/suggest/uwp_software/",
+            "url": "https://byx.vercel.app/note/suggest/uwp_software/",
+            "title": "推荐 UWP 软件",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"推荐-uwp-软件\"><a class=\"anchor\" href=\"#推荐-uwp-软件\">#</a> » 推荐 UWP 软件</h1>\n<table>\n<thead>\n<tr>\n<th>软件</th>\n<th>评价</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW5ibGdnaDVyNTU4\">To Do</span></td>\n<td>备忘录、任务安排，轻轻松松管理生活</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmZodnFt\">邮件和日历</span></td>\n<td>轻松接受管理邮件、日历与 To Do 联动</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmRqMzZj\">华夏万年历</span></td>\n<td>支持农历、中国节假日的日历软件</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OXd6ZG5jcmZodmps\">OneNote</span></td>\n<td>功能强大的免费笔记软件</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW50bTJxYzZxd3M3\">Lively Wallpaper</span></td>\n<td>免费的桌面壁纸软件，支持视频当壁纸</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"bXMtd2luZG93cy1zdG9yZTovL3BkcD9wcm9kdWN0SWQ9OW5ibGdnaDVrdGxr\">色彩专家</span></td>\n<td>取色、选色极其方便</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "推荐",
+                "Win10"
+            ]
+        },
+        {
+            "id": "https://byx.vercel.app/note/suggest/windows_software/",
+            "url": "https://byx.vercel.app/note/suggest/windows_software/",
+            "title": "推荐 Windows 软件",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"推荐-windows-软件\"><a class=\"anchor\" href=\"#推荐-windows-软件\">#</a> » 推荐 Windows 软件</h1>\n<table>\n<thead>\n<tr>\n<th>软件</th>\n<th>评价</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"\">微软拼音</a></td>\n<td>自带的输入法，智能没广告体积小</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS96aC1jbi9lZGdl\">Edge 浏览器</span></td>\n<td>无广告、跟踪拦截的浏览器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuaHVvcm9uZy5jbg==\">火绒安全</span></td>\n<td>专制流氓的杀毒软件</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tb2ZhbmcucnVhbm1laS5jb20=\">软媒魔方</span></td>\n<td>专业系统调优</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cub25lbm90ZS5jb20vZG93bmxvYWQ=\">OneNote</span></td>\n<td>功能强大的笔记</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9jbi5iYW5kaXNvZnQuY29tL2JhbmRpemlwLw==\">Bandizip</span></td>\n<td>简洁好用的压缩软件</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9jbi5iYW5kaXNvZnQuY29tL2hvbmV5dmlldy8=\">Honeyview</span></td>\n<td>简洁好用的图片浏览器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cucG90cGxheWVyLm9yZw==\">PotPlayer</span></td>\n<td>功能强大的音视频播放器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmFuZGljYW0uY24=\">Bandicam</span></td>\n<td>全能的视频录制工具</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuaW50ZXJuZXRkb3dubG9hZG1hbmFnZXIuY29tL2Rvd25sb2FkLmh0bWw=\">Internet Download Manager（简称 IDM）</span></td>\n<td>吃满网速的下载神器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZnJlZWRvd25sb2FkbWFuYWdlci5vcmcvemgvZG93bmxvYWQuaHRt\">Free Download Manager（简称 FDM）</span></td>\n<td>磁力链资源下载神器</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9nZWVrdW5pbnN0YWxsZXIuY29tL2Rvd25sb2Fk\">Geek Uninstaller</span></td>\n<td>卸载软件神器，卸载无残留</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "推荐",
+                "Win10"
+            ]
+        },
+        {
+            "id": "https://byx.vercel.app/note/tutorial/windows/download_win10/",
+            "url": "https://byx.vercel.app/note/tutorial/windows/download_win10/",
+            "title": "下载 Windows 10 系统",
+            "date_published": "2020-10-20T12:31:24.000Z",
+            "content_html": "<h1 id=\"下载-Windows-10-系统\"><a href=\"#下载-Windows-10-系统\" class=\"headerlink\" title=\"下载 Windows 10 系统\"></a>下载 Windows 10 系统</h1><blockquote>\n<p>安装前，请确保 C 盘（系统盘）有 20 G 以上的存储空间。<br>下载前，请核对操作系统的位数。<br>下载前，请确保电脑中有 ED2K 下载软件（例如：迅雷）</p>\n</blockquote>\n<h1 id=\"»-LTSC-版：\"><a href=\"#»-LTSC-版：\" class=\"headerlink\" title=\"» LTSC 版：\"></a>» LTSC 版：</h1><blockquote>\n<p>首推理由：系统占用存储少、内存占用少、CPU占用少。<br>无 Win10 应用商店、无微软小娜、无 UWP 应用，更新频率少而且稳定。<br>Win10 应用商店可通过手动安装，然后再安装其他的 UWP 应用。</p>\n</blockquote>\n<ul>\n<li>密钥：<code>YJQNW-QH3Y8-JDHW2-MGV9F-2KCR9</code></li>\n<li>64位：<span class=\"exturl\" data-url=\"ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfZW50ZXJwcmlzZV9sdHNjXzIwMTlfeDY0X2R2ZF85YzA5ZmYyNC5pc298NDQ3ODkwNjM2OHxFN0M1MjY0OTkzMDg4NDFBNEE2RDExNkM4NTdEQjY2OXwv\">ED2K 下载链接</span>，发布时间 2019-03-15</li>\n<li>32位：<span class=\"exturl\" data-url=\"ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfZW50ZXJwcmlzZV9sdHNjXzIwMTlfeDg2X2R2ZF8xODE0ZGJhYi5pc298MzE5NjgwMzA3MnwyRDM5QzU0QTJFOTlCQUMzMDgxOTFDNzRBMTVCMzIzN3wv\">ED2K 下载链接</span>，发布时间 2019-03-15</li>\n</ul>\n<h1 id=\"»-企业版、教育版、专业版：\"><a href=\"#»-企业版、教育版、专业版：\" class=\"headerlink\" title=\"» 企业版、教育版、专业版：\"></a>» 企业版、教育版、专业版：</h1><blockquote>\n<p>推荐怕给怕麻烦的人。<br>有 Win10 应用商店、有微软小娜、有 UWP 应用，更新频率频繁。<br>由安装密钥决定版本，激活后可通过密钥再次更换为别的版本再次激活。</p>\n</blockquote>\n<ul>\n<li>密钥：<code>NK96Y-D9CD8-W44CQ-R8YTK-DYJWX</code></li>\n<li>64位：<span class=\"exturl\" data-url=\"ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfYnVzaW5lc3NfZWRpdGlvbnNfdmVyc2lvbl8yMGgyX3VwZGF0ZWRfYXByaWxfMjAyMV94NjRfZHZkXzBhMGZjNDkwLmlzb3w2MTY1ODMxNjgwfDlCNEI5MThBODQwRjg0NUE0M0RENDc2RkNFQzNFNDIxfC8=\">ED2K 下载链接</span>，发布时间 2021-04-20</li>\n<li>32位：<span class=\"exturl\" data-url=\"ZWQyazovL3xmaWxlfGNuX3dpbmRvd3NfMTBfYnVzaW5lc3NfZWRpdGlvbnNfdmVyc2lvbl8yMGgyX3VwZGF0ZWRfYXByaWxfMjAyMV94ODZfZHZkXzBlOTRiMzNjLmlzb3w0NTM4NzQyNzg0fEE3MzhEQkU3NzEzN0RCOUFFQ0Q4QzU2NTAwMDExNzRCfC8=\">ED2K 下载链接</span>，发布时间 2021-04-20</li>\n</ul>\n<h1 id=\"»-自选系统与版本：\"><a href=\"#»-自选系统与版本：\" class=\"headerlink\" title=\"» 自选系统与版本：\"></a>» 自选系统与版本：</h1><blockquote>\n<p>推荐专业人士，不懂电脑请看上面的两个版本。</p>\n</blockquote>\n<ul>\n<li>链接 1：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9tc2RuLml0ZWxseW91LmNuLw==\">MSDN，我告诉你（旧站）</span></li>\n<li>链接 2：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9uZXh0Lml0ZWxseW91LmNuL09yaWdpbmFsL0luZGV4\">MSDN，我告诉你（新站）</span></li>\n</ul>\n",
+            "tags": [
+                "Win10",
+                "教程"
+            ]
+        }
+    ]
+}

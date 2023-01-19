@@ -1,0 +1,210 @@
+[[recommend]]
+name = "Edge 浏览器"
+desc = "无广告、拦截跟踪的开源浏览器"
+url = "https://www.microsoft.com/zh-cn/edge"
+size = 2814
+[[recommend]]
+name = "Firefox 浏览器"
+desc = "无广告、保护隐私的开源浏览器，由非营利性组织所研发"
+url = "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release"
+size = 3208
+[[recommend]]
+name = "火绒安全"
+desc = "专制流氓的杀毒软件"
+url = "https://www.huorong.cn"
+size = 2352
+[[recommend]]
+name = "卡巴斯基"
+desc = "最强的免费杀毒软件"
+url = "https://box.kaspersky.com/f/4e311e6486fd48fe975c"
+size = 2219
+[[recommend]]
+name = "Bandizip"
+desc = "简洁好用的压缩软件"
+url = "https://cn.bandisoft.com/bandizip"
+size = 1666
+[[recommend]]
+name = "Honeyview"
+desc = "简洁好用的图片浏览器"
+url = "https://cn.bandisoft.com/honeyview"
+size = 2701
+[[recommend]]
+name = "AIMP"
+desc = "免费的专业级音频播放器"
+url = "https://www.aimp.ru"
+size = 3199
+[[recommend]]
+name = "PotPlayer"
+desc = "功能强大的音视频播放器"
+url = "https://www.ghxi.com/potplayer.html"
+size = 2087
+[[recommend]]
+name = "Geek Uninstaller"
+desc = "卸载软件神器，卸载无残留"
+url = "https://geekuninstaller.com/download"
+size = 2821
+[[recommend]]
+name = "WebP Codec"
+desc = "支持系统预览 WebP 图片和 PS 编辑 WebP 图片"
+url = "https://codecpack.co/download/WebP-Codec-for-Windows.html"
+size = 1759
+[[edit]]
+name = "OneNote"
+desc = "功能强大的云笔记"
+url = "https://www.onenote.com/download"
+size = 1669
+[[edit]]
+name = "OneNote [UWP]"
+desc = "功能强大的云笔记"
+url = "ms-windows-store://pdp?productId=9wzdncrfhvjl"
+size = 1669
+[[edit]]
+name = "Mark Text"
+desc = "方便简洁的 Markdown 编辑器"
+url = "https://marktext.app"
+size = 2433
+[[edit]]
+name = "Notion"
+desc = "统一笔记、知识 与 任务管理 的云笔记，支持多人协作"
+url = "https://www.notion.so/desktop"
+size = 2672
+[[edit]]
+name = "Sublime Text"
+desc = "几乎万能的文本编辑器，主要用于编写程序"
+url = "https://www.sublimetext.com"
+size = 2371
+[[edit]]
+name = "Visual Studio Code"
+desc = "简称：VSCode，几乎万能的文本编辑器，主要用于编写程序"
+url = "https://code.visualstudio.com"
+size = 2069
+[[edit]]
+name = "LibreOffice"
+desc = "自由免费、全能、跨平台的办公软件"
+url = "https://zh-cn.libreoffice.org/download/libreoffice"
+size = 2429
+[[video]]
+name = "ScreenToGif"
+desc = "屏幕、窗口、摄像头和画板录像，内置编辑器"
+url = "https://www.screentogif.com/downloads"
+size = 383
+[[video]]
+name = "Bandicam"
+desc = "全能的视频录制工具"
+url = "https://www.bandicam.cn"
+size = 2222
+[[video]]
+name = "Open Broadcaster Software"
+desc = "简称：OBS，免费的视频录制以及直播软件"
+url = "https://obsproject.com/zh-cn"
+size = 3561
+[[video]]
+name = "剪映"
+desc = "免费多功能的剪辑软件"
+url = "https://lv.ulikecam.com"
+size = 911
+[[video]]
+name = "DaVinci Resolve"
+desc = "简称：达芬奇，免费专业的剪辑调色软件"
+url = "http://www.blackmagicdesign.com/cn/products/davinciresolve"
+size = 3117
+[[video]]
+name = "小丸工具箱"
+desc = "著名的视频压制软件，让音视频处理变得轻松简单"
+url = "https://maruko.appinn.me"
+size = 3117
+[[video]]
+name = "NVIDIA RTX Voice"
+desc = "减少输出输入时的噪音，非 RTX 显卡也可以使用"
+url = "https://www.nvidia.cn/geforce/guides/nvidia-rtx-voice-setup-guide"
+size = 1143
+[[video]]
+name = "NVIDIA Broadcast"
+desc = "消除噪声和虚拟背景的 AI 软件，仅限 RTX 显卡使用"
+url = "https://www.nvidia.cn/geforce/broadcasting/broadcast-app"
+size = 3303
+[[tranmission]]
+name = "Neat Download Manager"
+desc = "简称：NDM，吃满网速的下载神器"
+url = "https://www.neatdownloadmanager.com"
+size = 2259
+[[tranmission]]
+name = "qBittorrent"
+desc = "目前最好用的磁力链资源下载器"
+url = "https://sourceforge.net/projects/qbittorrent/"
+size = 3390
+[[tranmission]]
+name = "LANDrop"
+desc = "手机电脑局域网满速传文件神器，支持所有平台"
+url = "https://landrop.app/#downloads"
+size = 1989
+[[system]]
+name = "软媒魔方"
+desc = "专业系统设置、清理与调优"
+url = "https://mofang.ruanmei.com"
+size = 2529
+[[system]]
+name = "Dism++"
+desc = "地表上最强的 Windows 系统优化工具软件"
+url = "https://www.chuyu.me/zh-Hans/index.html"
+size = 2469
+[[system]]
+name = "ToDesk"
+desc = "免费安全流畅的远程控制软件"
+url = "https://www.todesk.com/download.html"
+size = 1730
+[[system]]
+name = "CPU-Z"
+desc = "专业的 CPU 检测软件"
+url = "https://www.cpuid.com/softwares/cpu-z.html"
+size = 2284
+[[system]]
+name = "GPU-Z"
+desc = "专业的显卡检测软件"
+url = "https://www.techpowerup.com/download/techpowerup-gpu-z"
+size = 2238
+[[system]]
+name = "FirPE"
+desc = "简单易用、带网络连接的 WinPE 维护系统"
+url = "https://www.firpe.cn/#down"
+size = 2944
+[[system]]
+name = "Rufus"
+desc = "实用的自启动u盘制作工具，制作 Linux 系统或者 Win 启动u盘"
+url = "https://www.ghxi.com/rufusu.html"
+size = 3146
+[[system]]
+name = "WinNTSetup"
+desc = "Windows系统硬盘安装器，支持从PE和本地安装系统"
+url = "https://www.ghxi.com/winntsetup.html"
+size = 3051
+[[other]]
+name = "Watt Toolkit"
+desc = "原名 Steam++，开源跨平台的多功能游戏工具箱"
+url = "https://steampp.net"
+size = 2820
+[[other]]
+name = "Watt Toolkit [UWP]"
+desc = "原名 Steam++，开源跨平台的多功能游戏工具箱"
+url = "ms-windows-store://pdp?productId=9mtcfhs560ng"
+size = 2820
+[[other]]
+name = "To Do [UWP]"
+desc = "备忘录、任务安排，轻轻松松管理生活"
+url = "ms-windows-store://pdp?productId=9nblggh5r558"
+size = 1869
+[[other]]
+name = "邮件和日历 [UWP]"
+desc = "轻松接受管理邮件、日历与 To Do 联动"
+url = "ms-windows-store://pdp?productId=9wzdncrfhvqm"
+size = 2344
+[[other]]
+name = "华夏万年历 [UWP]"
+desc = "支持农历、中国节假日的日历软件"
+url = "ms-windows-store://pdp?productId=9wzdncrdj36c"
+size = 2167
+[[other]]
+name = "Lively Wallpaper [UWP]"
+desc = "免费的桌面壁纸软件，支持视频当壁纸"
+url = "ms-windows-store://pdp?productId=9ntm2qc6qws7"
+size = 2932

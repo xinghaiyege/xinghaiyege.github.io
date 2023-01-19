@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>星祤书架 • Posts by &#34;安卓&#34; category</title>
+        <link>https://byx.vercel.app</link>
+        <description>游戏更新 &amp; 编程笔记</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 20 Oct 2020 20:31:28 +0800</pubDate>
+        <lastBuildDate>Tue, 20 Oct 2020 20:31:28 +0800</lastBuildDate>
+        <category>编程</category>
+        <category>C#</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>网站</category>
+        <category>Win10</category>
+        <category>Android</category>
+        <category>Minecraft（我的世界）</category>
+        <category>基岩版</category>
+        <category>Java版</category>
+        <category>工具</category>
+        <category>教程</category>
+        <category>安卓</category>
+        <category>IDE</category>
+        <category>软件时间轴</category>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/tutorial/android/set_android_dns/</guid>
+            <title>设置DNS（安卓篇）</title>
+            <link>https://byx.vercel.app/note/tutorial/android/set_android_dns/</link>
+            <category>教程</category>
+            <category>安卓</category>
+            <pubDate>Tue, 20 Oct 2020 20:31:28 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;设置DNS（安卓篇）&#34;&gt;&lt;a href=&#34;#设置DNS（安卓篇）&#34; class=&#34;headerlink&#34; title=&#34;设置DNS（安卓篇）&#34;&gt;&lt;/a&gt;设置DNS（安卓篇）&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;进入 &lt;code&gt;设置&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;WLAN&lt;/code&gt; 选项。&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;当前连接着的 WiFi&lt;/code&gt; 右边的 &lt;code&gt;&amp;gt;&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;IP设置&lt;/code&gt; 切换为 &lt;code&gt;静态&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DNS 1&lt;/code&gt; 设置为： &lt;code&gt;223.5.5.5&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DNS 2&lt;/code&gt; 设置为： &lt;code&gt;223.6.6.6&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;设置完成后点击右上角的 &lt;code&gt;√&lt;/code&gt; 完成设置。&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

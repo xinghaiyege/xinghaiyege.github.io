@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitmap: https://byx.vercel.app/sitemap.xml
+Sitmap: https://xinghaiyege.bitbucket.io/sitemap/bitbucket.xml

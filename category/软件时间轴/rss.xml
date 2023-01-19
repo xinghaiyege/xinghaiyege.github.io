@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>星祤书架 • Posts by &#34;软件时间轴&#34; category</title>
+        <link>https://byx.vercel.app</link>
+        <description>游戏更新 &amp; 编程笔记</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 07 Dec 2021 14:26:56 +0800</pubDate>
+        <lastBuildDate>Tue, 07 Dec 2021 14:26:56 +0800</lastBuildDate>
+        <category>编程</category>
+        <category>C#</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>网站</category>
+        <category>Win10</category>
+        <category>Android</category>
+        <category>Minecraft（我的世界）</category>
+        <category>基岩版</category>
+        <category>Java版</category>
+        <category>工具</category>
+        <category>教程</category>
+        <category>安卓</category>
+        <category>IDE</category>
+        <category>软件时间轴</category>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/software/timeline/rogue_software/</guid>
+            <title>流氓软件</title>
+            <link>https://byx.vercel.app/note/software/timeline/rogue_software/</link>
+            <category>软件时间轴</category>
+            <pubDate>Tue, 07 Dec 2021 14:26:56 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;流氓软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#流氓软件&#34;&gt;#&lt;/a&gt; 流氓软件&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;厂商&lt;/th&gt;
+&lt;th&gt;软件名&lt;/th&gt;
+&lt;th&gt;软件功能&lt;/th&gt;
+&lt;th&gt;流氓理由&lt;/th&gt;
+&lt;th&gt;代替软件&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 安全卫士&lt;/td&gt;
+&lt;td&gt;安全防护&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;火绒&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 加速浏览器&lt;/td&gt;
+&lt;td&gt;网页浏览器&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 看图王&lt;/td&gt;
+&lt;td&gt;图片浏览器&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Honeyview&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 好压&lt;/td&gt;
+&lt;td&gt;压缩软件&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;BandiZip&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 王牌输入法&lt;/td&gt;
+&lt;td&gt;中文输入法&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;微软拼音&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345PDF 转换器&lt;/td&gt;
+&lt;td&gt;浏览与转换 PDF 文档&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 网址导航桌面版&lt;/td&gt;
+&lt;td&gt;网站聚合&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 影视大全桌面版&lt;/td&gt;
+&lt;td&gt;网站聚合&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;2345 游戏大厅&lt;/td&gt;
+&lt;td&gt;游戏商店&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Steam&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2345&lt;/td&gt;
+&lt;td&gt;PDF 阅读器&lt;/td&gt;
+&lt;td&gt;浏览与转换 PDF 文档&lt;/td&gt;
+&lt;td&gt;浏览器劫持、广告弹窗&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;360&lt;/td&gt;
+&lt;td&gt;360 浏览器&lt;/td&gt;
+&lt;td&gt;网页浏览器&lt;/td&gt;
+&lt;td&gt;广告弹窗&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;360&lt;/td&gt;
+&lt;td&gt;360 游戏大厅&lt;/td&gt;
+&lt;td&gt;游戏商店&lt;/td&gt;
+&lt;td&gt;广告弹窗&lt;/td&gt;
+&lt;td&gt;Steam&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;360&lt;/td&gt;
+&lt;td&gt;小鸟壁纸（360 壁纸）&lt;/td&gt;
+&lt;td&gt;桌面壁纸&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;广告弹窗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;360&lt;/td&gt;
+&lt;td&gt;鲁大师&lt;/td&gt;
+&lt;td&gt;检测电脑性能、驱动安装&lt;/td&gt;
+&lt;td&gt;广告弹窗&lt;/td&gt;
+&lt;td&gt;火绒&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;快压&lt;/td&gt;
+&lt;td&gt;压缩软件&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;广告弹窗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;手机模拟大师&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;广告&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;海螺桌面&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;桌面壁纸&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;极速输入法&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;中文输入法&lt;/td&gt;
+&lt;td&gt;微软拼音&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;讯读 PDF 转换器&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;浏览与转换 PDF 文档&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;4&#34;&gt;香蕉阅读&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;云上压缩&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;压缩软件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;即刻玩游戏盒&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;游戏商店&lt;/td&gt;
+&lt;td&gt;Steam&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;4&#34;&gt;豌豆搜索&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;迷你新闻&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;新闻资讯&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;讯读 PDF 大师&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;浏览与转换 PDF 文档&lt;/td&gt;
+&lt;td&gt;Chrome、火狐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;4&#34;&gt;易极数据恢复&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;腾讯&lt;/td&gt;
+&lt;td colspan=&#34;2&#34;&gt;WeGame&lt;/td&gt;
+&lt;td&gt;扫描硬盘&lt;/td&gt;
+&lt;td&gt;Steam&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;腾讯&lt;/td&gt;
+&lt;td&gt;搜狗输入法&lt;/td&gt;
+&lt;td&gt;中文输入法&lt;/td&gt;
+&lt;td&gt;广告弹窗&lt;/td&gt;
+&lt;td&gt;微软拼音&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://byx.vercel.app/note/software/timeline/not_recommended_software/</guid>
+            <title>不推荐软件</title>
+            <link>https://byx.vercel.app/note/software/timeline/not_recommended_software/</link>
+            <category>软件时间轴</category>
+            <pubDate>Sun, 21 Nov 2021 19:07:46 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;云笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#云笔记&#34;&gt;#&lt;/a&gt; 云笔记&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;软件名&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;th&gt;理由&lt;/th&gt;
+&lt;th&gt;评测时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;印象笔记（Evernote）&lt;/td&gt;
+&lt;td&gt;跨平台云笔记本软件、支持 MarkDown&lt;/td&gt;
+&lt;td&gt;操作过于复杂、网络问题&lt;/td&gt;
+&lt;td&gt;2021-11-25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Boost Note&lt;/td&gt;
+&lt;td&gt;跨平台云笔记本软件、支持 MarkDown&lt;/td&gt;
+&lt;td&gt;操作过于复杂&lt;/td&gt;
+&lt;td&gt;2021-11-25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;磁力链下载工具&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#磁力链下载工具&#34;&gt;#&lt;/a&gt; 磁力链下载工具&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;软件名&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;th&gt;理由&lt;/th&gt;
+&lt;th&gt;评测时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;比特精灵&lt;/td&gt;
+&lt;td&gt;下载磁力链、直连&lt;/td&gt;
+&lt;td&gt;下载速度缓慢、停止维护&lt;/td&gt;
+&lt;td&gt;2021-12-14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;局域网数据传输&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#局域网数据传输&#34;&gt;#&lt;/a&gt; 局域网数据传输&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;软件名&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;th&gt;理由&lt;/th&gt;
+&lt;th&gt;评测时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;飞鸽传书&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输、远程控制&lt;/td&gt;
+&lt;td&gt;文件无法传输、停止维护&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;飞 Q&lt;/td&gt;
+&lt;td&gt;Windows 局域网数据传输、远程控制&lt;/td&gt;
+&lt;td&gt;不支持跨平台、停止维护&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;局域网精灵（LAN Genius）&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;操作过于复杂&lt;/td&gt;
+&lt;td&gt;2021-11-25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;快牙&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;数据传输容易中断&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AnyDesk&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输、远程控制&lt;/td&gt;
+&lt;td&gt;操作过于复杂、安装都麻烦&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dukto&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;传输中文文件名乱码&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feem&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;操作过于复杂&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Infinit&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;使用需要登录、已经无法登录、停止维护&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Send Anywhere&lt;/td&gt;
+&lt;td&gt;跨平台局域网数据传输&lt;/td&gt;
+&lt;td&gt;无法接收文件&lt;/td&gt;
+&lt;td&gt;2021-11-21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

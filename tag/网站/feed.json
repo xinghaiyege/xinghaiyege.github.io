@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "星祤书架 • All posts by \"网站\" tag",
+    "description": "游戏更新 & 编程笔记",
+    "home_page_url": "https://byx.vercel.app",
+    "items": [
+        {
+            "id": "https://byx.vercel.app/note/suggest/common_website/",
+            "url": "https://byx.vercel.app/note/suggest/common_website/",
+            "title": "推荐常用网站",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"推荐常用网站\"><a class=\"anchor\" href=\"#推荐常用网站\">#</a> » 推荐常用网站</h1>\n<table>\n<thead>\n<tr>\n<th>网站</th>\n<th>评价</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly9vdXRsb29rLmxpdmUuY29tL21haWwvMC9pbmJveA==\">Outlook 邮箱</span></td>\n<td>贼好用的邮箱</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuemhpaHUuY29t\">知乎</span></td>\n<td>不懂就问</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cucnVub29iLmNvbQ==\">菜鸟教程</span></td>\n<td>不会就学</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZGVlcGwuY29tL3RyYW5zbGF0b3I=\">DeepL 翻译</span></td>\n<td>全世界最好的翻译</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly90cmFjZS5tb2U=\">以图搜番</span></td>\n<td>有图想看就搜</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29t\">BiliBili</span></td>\n<td>著名 ACG 弹幕视频站</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYWNmdW4uY24=\">AcFun</span></td>\n<td>旧著名 ACG 弹幕视频站</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYWdlZmFucy5uZXQv\">AGE 动漫</span></td>\n<td>白嫖 ACG 弹幕视频站</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cDovL3d3dy5zaWxpc2lsaS5pbg==\">SiliSili</span></td>\n<td>白嫖 ACG 弹幕视频站</td>\n</tr>\n<tr>\n<td><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZWFzeWljb24ubmV0\">图标搜索</span></td>\n<td>大量精美的图标</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "推荐",
+                "网站"
+            ]
+        },
+        {
+            "id": "https://byx.vercel.app/note/tools/web/webmasters/",
+            "url": "https://byx.vercel.app/note/tools/web/webmasters/",
+            "title": "网站管理员工具",
+            "date_published": "2021-03-28T00:28:35.000Z",
+            "content_html": "<h1 id=\"网站管理员工具\"><a href=\"#网站管理员工具\" class=\"headerlink\" title=\"网站管理员工具\"></a>网站管理员工具</h1><h1 id=\"»-快照更新：\"><a href=\"#»-快照更新：\" class=\"headerlink\" title=\"» 快照更新：\"></a>» 快照更新：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=\">谷歌搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=\">今日头条</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTI=\">搜狗搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL2luZm8uc28uMzYwLmNuL2NhY2hlX3JlbW92ZS5odG1s\">360搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL3RvdXN1LmJhaWR1LmNvbS93ZWJtYXN0ZXIvYWRk\">百度搜索</span></li>\n</ul>\n<h1 id=\"»-提交入口：\"><a href=\"#»-提交入口：\" class=\"headerlink\" title=\"» 提交入口：\"></a>» 提交入口：</h1><ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS93ZWJtYXN0ZXJzL3Rvb2xzL3N1Ym1pdC11cmw/cGxpPTE=\">谷歌搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly96aGFuemhhbmcudG91dGlhby5jb20vcGFnZS9pbm5lci9saW5rL2luZm8=\">今日头条</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmluZy5jb20vdG9vbGJveC93ZWJtYXN0ZXI=\">必应搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL2Zhbmt1aS5oZWxwLnNvZ291LmNvbS9pbmRleC5waHAvd2ViL3dlYi9pbmRleD90eXBlPTE=\">搜狗搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL3poYW56aGFuZy5zby5jb20v\">360搜索</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly96aXl1YW4uYmFpZHUuY29tL2xpbmtzdWJtaXQvdXJs\">百度搜索</span></li>\n</ul>\n",
+            "tags": [
+                "网站",
+                "工具"
+            ]
+        }
+    ]
+}
